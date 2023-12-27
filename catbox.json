@@ -243,7 +243,10 @@
       "ext": "./json/电影牛影院.json",
       "jar": "./json/dianyn_xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
-	
+	{"key": "csp_MiNi","name":"🍎迷你影视","type": 3,"api": "csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1",
+    "ext": "http://www.miniku.cc/xgapp.php/v1/",
+    "jar":"http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"},
+
 	{"key":"迷你库","name":"📀迷你┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"圆周率","name":"📀率率┃影视","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"飞鱼","name":"📀飞鱼┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.42.31.123:5820/api.php/app/"},
