@@ -36,7 +36,7 @@
   "sites": [
    
 {
-            "key": "js豆瓣备用",
+            "key": "js豆瓣推荐",
             "name": "🍥┃豆瓣┃推荐",
             "type": 3,
             "api": "./libs/doubanbf.js",
@@ -133,7 +133,7 @@
 
            {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "🐭┃贱贱┃p2p",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "searchable": 1,
