@@ -144,7 +144,7 @@
       "key": "drpy_js_荐片",
       "name": "CatBox专享┃荐片",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy2.min.js", 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -160,10 +160,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./api/drpy2.min.js",
+            "api": "./libs/drpy2.min.js",//api
             "ext": "./js/jp.js",
 //			"jar": "https://atomgit.com/xmbjm/xmbjm/blob/main/xmbjm.jar"
-"jar": "./main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+//"jar": "./main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
 
         },
 	{
