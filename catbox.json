@@ -34,14 +34,12 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "本地文件",
-            "type": "0",
-            "pass": true,
-            "url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+  //      {"name": "本地文件",
+  //          "type": "0",
+  //          "pass": true,
+  //          "url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live.txt",
+  //          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+  //          "logo": "https://epg.112114.xyz/logo/{name}.png"}
     ],
 	
   "sites": [
