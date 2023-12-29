@@ -137,10 +137,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./js/荐片.js"
-    },
-	
-	
+      "ext": "./js/荐片.js",
+	  "jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/ffty.jar;md5;18b8df1e0f7813098c1e70979a264aad"
+  },
+
     {
             "key": "贱贱",
             "name": "📚┃荐片┃拾光",
@@ -150,7 +150,8 @@
             "changeable": 1,
             "playerType": "1",
             "api": "./api/drpy2.min.js",
-            "ext": "./js/jp.js"
+            "ext": "./js/jp.js",
+			"jar": "https://atomgit.com/xmbjm/xmbjm/blob/main/xmbjm.jar"
         },
 	{
             "key": "js_荐片",
