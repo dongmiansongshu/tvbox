@@ -268,7 +268,7 @@
 {"key":"影探","name":"📀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vvipcms.lyyytv.cn/api.php/app/"},
 {"key":"晴天","name":"📀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 {"key":"996","name":"📀玖六┃影视","type":3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com"},
-{"key":"乐迪","name":"📀乐迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"key":"乐迪","name":"📀爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
     {
             "key": "天天开心自营",
