@@ -5,11 +5,10 @@
     "warningText": "接口免费整理维护",
     "spider": "./main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB",
 	
-	
 	   "lives": [
         {
             "name": "ipv6+4",
-            "url": "http://tvkj.top/zb.txt",//天微科技纯净直播源
+            "url": "https://d.kstore.space/download/6529/mitv/zb_tianweikj.txt",//天微科技纯净直播源
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
