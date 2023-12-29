@@ -9,7 +9,7 @@
 	   "lives": [
         {
             "name": "ipv6",
-            "url": "https://d.kstore.space/download/6529/mitv/ipv6-4.m3u",
+            "url": "https://d.kstore.space/download/6529/mitv/ipv6-4.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
