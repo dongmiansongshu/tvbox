@@ -162,7 +162,9 @@
             "playerType": "1",
             "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js",
-			"jar": "https://atomgit.com/xmbjm/xmbjm/blob/main/xmbjm.jar"
+//			"jar": "https://atomgit.com/xmbjm/xmbjm/blob/main/xmbjm.jar"
+"jar": "./main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+
         },
 	{
             "key": "js_荐片",
