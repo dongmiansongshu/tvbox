@@ -38,16 +38,7 @@
             "filterable": 1,
             "ext": "./libs/douban.js"
         },
-        {
-            "key": "js豆瓣备用",
-            "name": "🍥┃豆瓣备用┃🍥",
-            "type": 3,
-            "api": "./libs/doubanbf.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        
+
         {
             "key": "蜗牛有广告",
             "name": "🐌┃蜗牛┃影视",
