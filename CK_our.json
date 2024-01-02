@@ -43,13 +43,9 @@
       "name": "🏄️春盈线路"
     },
     {
-      "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json",
-      "name": "🏄️二哈线路"
-    },
-    {
-      "url": "https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-      "name": "🏄️猫爪线路"
-    },
+            "name": "🌿Cat接口",
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
+        },
     {
       "url": "http://rihou.vip:88/荷城茶秀",
       "name": "88荷城茶秀❤日后魔改"
