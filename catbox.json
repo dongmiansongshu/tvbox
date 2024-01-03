@@ -356,7 +356,7 @@
 		
 {"key": "玩我哥哥","name":"🎦玩我|哥哥（更新补链中）","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
-"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
 "ext":"./libs/玩我哥哥.json"},
 
  {
@@ -367,7 +367,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "http://www.ttkx.site/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+            "jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
             "ext": {
                 "二次截取": "1&&-1+module-item-cover",
                 "数组": "module-item-pic&&module-item-cover",
