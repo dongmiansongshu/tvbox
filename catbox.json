@@ -357,7 +357,7 @@
 {"key": "玩我哥哥","name":"🎦玩我|哥哥（更新补链中）","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
 "jar": "http://www.ttkx.site/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-"ext":"./lib/玩我哥哥.json"},
+"ext":"./libs/玩我哥哥.json"},
 
         {
             "key": "开心玩偶",
