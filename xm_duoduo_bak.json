@@ -93,28 +93,7 @@
             "filterable": 1,
 		    "jar": "./duo.jar;md5;5C5116C70E15343433C8480C3B448408"
         },
-		{
-            "key": "玩我哥哥",
-            "name": "🎦开心┃玩我",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
-            "ext": {
-                "二次截取": "1&&-1+module-item-cover",
-                "数组": "module-item-pic&&module-item-cover",
-                "副标题": "module-item-text*>&&<",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "剧情：&&</div>",
-                "搜索url": "http://www.ttkx.live/index.php/vod/search.html?wd={wd}",
-                "分类url": "http://www.ttkx.live/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
-                "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-                "分类": "玩我电影$1#玩我剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
-            }
-        },
+
 {
 		"key":"爱迪",
 		"name":"🍟┃爱迪┃高清",
