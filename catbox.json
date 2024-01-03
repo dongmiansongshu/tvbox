@@ -63,7 +63,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-	  "jar": "./jar/woggfanty;md5;8ba7ff79221a3b1dd152646f48cd279c",
+//	  "jar": "./jar/woggfanty;md5;8ba7ff79221a3b1dd152646f48cd279c",
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64110baeb9974690f7b374a8b2586ac5",
+
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
 
