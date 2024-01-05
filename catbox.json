@@ -292,8 +292,12 @@
         },
 		
 
-{"key":"开心HK影视","name":"🎦开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/开心HK影视.json"},
-{"key":"开心影视","name":"🎦开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/开心影视.json"},
+{"key":"开心HK影视","name":"🎦开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
+"ext":"./libs/开心HK影视.json"},
+{"key":"开心影视","name":"🎦开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
+"ext":"./libs/开心影视.json"},
 		
 {"key": "玩我哥哥","name":"🎦开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
