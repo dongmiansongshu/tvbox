@@ -125,9 +125,12 @@
 	
 	//      {"key":"drpy_js_影渣渣","name":"🐶┃影渣渣┃影视","type":3,"api":"./libs/drpy2.min.js","ext":"./js/影渣渣.js"},
 
-{"key":"开心HK影视","name":"🎦开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/开心HK影视.json"},
-{"key":"开心影视","name":"🎦开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/开心影视.json"},
-		
+{"key":"开心HK影视","name":"🎦开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
+"ext":"./libs/开心HK影视.json"},
+{"key":"开心影视","name":"🎦开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"jar": "http://www.ttkx.site/lib/ttkx.jar;md5;beb8825aa2f166dd2a127fc21ddf285b",
+"ext":"./libs/开心影视.json"},	
 		{
             "key": "csp_SNzy",
             "name": "🐉┃索尼┃高清",
