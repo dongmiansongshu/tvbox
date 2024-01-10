@@ -8,7 +8,8 @@
 	   "lives": [
         {
             "name": "ipv6+4",
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/tvlive天微科技原版-派大星-修改.txt",//天微科技纯净直播源
+       //   "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/tvlive天微科技原版-派大星-修改.txt",//天微科技纯净直播源
+            "url": "https://atomgit.com/xiaofeifei/mitv/blob/master/tvlive天微科技原版-派大星-修改.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
