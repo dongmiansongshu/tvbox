@@ -153,17 +153,6 @@
 	  "jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/ffty.jar;md5;18b8df1e0f7813098c1e70979a264aad"
   },
 
-  {
-      "key": "贱贱T4",
-      "name": "🐭贱贱┃T4",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/jp.js"
-    },
-
     {
             "key": "贱贱",
             "name": "📚┃荐片┃拾光",
@@ -189,6 +178,9 @@
             "quickSearch": 1,
             "filterable": 1
         },	
+
+  {"key":"大米星球","name":"大米｜影视","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/大米星球.js"},
+
  //   { "key": "js_影探","name": "🕵️┃侦探┃盒子","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/侦探.js"},	
        {
             "key": "drpy_js_新视觉影视",
