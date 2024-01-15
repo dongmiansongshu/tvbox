@@ -67,17 +67,7 @@
 "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
-		{   "key":"csp_sxtv",
-            "name":"自营 | 神仙影视",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":{
-			"分类url":"http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;",
-			"分类":"电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"}
-        },
+
     {
 
   "key": "csp_XBPQ_6V",
