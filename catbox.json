@@ -299,8 +299,6 @@
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/玩我哥哥.json"},
 
-
-	
  {
       "key": "meowtv_lzzy",
       "name": "📚拾光┃量子",
@@ -328,21 +326,14 @@
       ]
     },
 	{
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
+      "key": "厂长", //肥猫
+      "name": "🏭厂长┃影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/厂长.js"
     },
-	{
-      "key": "厂长",
-      "name": "📚拾光┃厂长",
-      "type": 3,
-      "playerType": "2",
-      "api": "./libs/drpy2.min.js",
-      "ext": "./js/厂长.js"
-    },
+
 
     {
             "key": "csp_SNzy",
