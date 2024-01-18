@@ -299,28 +299,7 @@
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/玩我哥哥.json"},
 
-        {
-            "key": "开心玩偶",
-            "name": "🎦开心┃玩偶",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./jar/开心.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
-            "ext": {
-                "二次截取": "1&&-1+module-item-cover",
-                "数组": "module-item-pic&&module-item-cover",
-                "副标题": "module-item-text*>&&<",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "剧情：&&</div>",
-                "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
-                "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
-                "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
-            }
-        },
+
 	
  {
       "key": "meowtv_lzzy",
@@ -348,7 +327,14 @@
         "喜剧片"
       ]
     },
-	
+	{
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
+    },
 	{
       "key": "厂长",
       "name": "📚拾光┃厂长",
