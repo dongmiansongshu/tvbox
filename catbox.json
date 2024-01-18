@@ -275,7 +275,6 @@
 {"key":"飞鱼","name":"📀飞鱼┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.42.31.123:5820/api.php/app/"},
 {"key":"影探","name":"📀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vvipcms.lyyytv.cn/api.php/app/"},
 {"key":"晴天","name":"📀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-{"key":"996","name":"📀玖六┃影视","type":3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com"},
 {"key":"乐迪","name":"📀爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
 		{
@@ -333,7 +332,16 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/厂长.js"
     },
-
+ {
+      "key": "csp_Cs1369",
+      "name": "🥃┃九六┃影视",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;f2e335a610902ad385828c2e67ad884a"
+    },
 
     {
             "key": "csp_SNzy",
