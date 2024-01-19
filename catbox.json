@@ -433,6 +433,8 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/360.js"
     },
+
+     {"key": "csp_Bttoo","name": "🍄┃Btto┃直连","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},//老刘备
     {
             "key": "csp_SNzy",
             "name": "🐉┃索尼┃高清",
