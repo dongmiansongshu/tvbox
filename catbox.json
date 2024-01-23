@@ -7,7 +7,7 @@
     "spider": "./jar/spider-yzl.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",//圆周率
 	"spider": "./jar/xyq.jar;md5;316660b0adb299c1dc63587579a3522e",//湘雅情
 
-     "comment": "多路直播配置只有影迷和蜂蜜影视支持",
+ //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	
 	"lives": [
       {
@@ -186,7 +186,13 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },//道长
-
+  {
+      "key": "drpy_js_金曼影视",
+      "name": "🕵️影视┃金曼影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
+    },
 
   {"key":"大米星球","name":"🌾大米┃影视","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
