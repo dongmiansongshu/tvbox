@@ -142,7 +142,7 @@
 		"jar": "./json/cili-catbox.jar"},
 
     {
-      "key": "drpy_js_荐片",
+      "key": "drpy_js_荐片专享",
       "name": "CatBox专享┃荐片",
       "type": 3,
       "api": "./js/drpy2.min.js", 
