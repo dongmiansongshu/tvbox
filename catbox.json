@@ -194,6 +194,14 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
     },
 
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "影视 | 网飞.TV[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+    },
+
   {"key":"大米星球","name":"🌾大米┃影视","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./libs/大米星球.js"}, //圆周率
