@@ -173,7 +173,7 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
-    },//道长
+    },
 
     {
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
@@ -213,9 +213,9 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
 
-  {"key":"大米星球","name":"🌾大米┃影视","type":3,"api":"./libs/drpy2.min.js",
+  {"key":"大米星球","name":"🌾大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"./libs/大米星球.js"}, //圆周率
+  "ext":"./libs/大米星球.js"},
 
  //   { "key": "js_影探","name": "🕵️┃侦探┃盒子","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/侦探.js"},	
        {
@@ -226,8 +226,6 @@
             "ext": "./js/新视觉影视.js"
         },
 
- 
-		
 {"key":"新视觉","name":"📀视觉┃影视","type":3,
 "api":"./js/drpy.min.js",
 "playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
@@ -319,7 +317,6 @@
             "api": "https://xzcjz.com/api.php/provide/vod"
 
         },
-		
 
 {"key":"开心HK影视","name":"🎦开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
@@ -376,7 +373,7 @@
 
 	{
       "key": "厂长", //肥猫
-      "name": "🏭厂长┃影视",
+      "name": "🏭厂长┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -384,7 +381,7 @@
     },
  {
       "key": "csp_Cs1369",
-      "name": "🥃┃九六┃影视",
+      "name": "🥃┃九六┃肥猫",
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
@@ -395,7 +392,7 @@
 
 {
       "key": "csp_Auete",
-      "name": "🦝┃Aue┃影视",
+      "name": "🦝┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -405,7 +402,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "👀┃快看┃影视",
+      "name": "👀┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -415,7 +412,7 @@
     },
         {
       "key": "Libvio",
-      "name": "💐┃Lib┃影视",
+      "name": "💐┃Lib┃肥猫",
       "type": 3,
       "playerType": "1",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -424,7 +421,7 @@
 
        {
       "key": "saohuo",
-      "name": " 👗┃骚火┃影视",
+      "name": " 👗┃骚火┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -432,7 +429,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "❤┃爱看┃影视",
+      "name": "❤┃爱看┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -440,7 +437,7 @@
     },
     {
       "key": "圣城影视",
-      "name": "🏰┃圣城┃影视",
+      "name": "🏰┃圣城┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -448,7 +445,7 @@
     },
     {
       "key": "云播影视",
-      "name": "☁️┃云播┃影视",
+      "name": "☁️┃云播┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -456,7 +453,7 @@
     },
      {
       "key": "低端",
-      "name": "🛣┃低端┃影视",
+      "name": "🛣┃低端┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -464,7 +461,7 @@
     },
     {
       "key": "奇优",
-      "name": " 🍩┃奇优┃影视",
+      "name": " 🍩┃奇优┃肥猫",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -472,20 +469,20 @@
     },
     {
       "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
+      "name": "🐯┃虎虎┃肥猫",
       "type": 3,
       "api": "csp_Panda",
       "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
     {
       "key": "drpy_js_360影视",
-      "name": "📺┃360┃官源",
+      "name": "📺┃360┃肥猫",
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/360.js"
     },
 
-     {"key": "csp_Bttoo","name": "🍄┃Btto┃直连","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,
+     {"key": "csp_Bttoo","name": "🍄┃Btto┃刘备","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,
      "jar": "https://raw.liucn.cc/box/fty.jar;md5;c774c41f98e151b33aa70e525b38164a"},//老刘备
     {
             "key": "csp_SNzy",
