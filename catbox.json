@@ -141,32 +141,7 @@
 		"filterable":1,
 		"jar": "./json/cili-catbox.jar"},
 
-    {
-      "key": "drpy_js_荐片专享",
-      "name": "CatBox专享┃荐片",
-      "type": 3,
-      "api": "./js/drpy2.min.js", 
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./js/荐片.js",
-	  "jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/ffty.jar;md5;18b8df1e0f7813098c1e70979a264aad"
-  },
 
-    {
-            "key": "贱贱",
-            "name": "📚┃荐片┃拾光",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "./libs/drpy2.min.js",//api
-            "ext": "./js/jp.js"
-//			"jar": "https://atomgit.com/xmbjm/xmbjm/blob/main/xmbjm.jar"
-//"jar": "./main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
-
-        },
 	{
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
@@ -179,6 +154,19 @@
             "filterable": 1
         },	
 
+    {
+            "key": "贱贱",
+            "name": "📚┃荐片┃拾光",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "./libs/drpy2.min.js",//api
+            "ext": "./js/jp.js"
+
+        },
+	
         {
       "key": "drpy_js_荐片",
       "name": "👽荐片┃道长[js]",
