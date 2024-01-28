@@ -187,10 +187,10 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },//道长
 
-        {
+    {
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
       "key": "csp_OK荐片",
-      "name": "♻️荐片|业余",
+      "name": "♻️荐片┃业余",
       "type": 3,
       "playerType": 1,
       "api": "csp_Jianpian",
@@ -200,6 +200,7 @@
       "ext": {
         "danmu": false
       }
+    },
   {
       "key": "drpy_js_金曼影视",
       "name": "🕵️影视┃金曼影视[js]",
