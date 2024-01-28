@@ -60,7 +60,19 @@
 			"jar": "./duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./libs/蘑菇.json"
         },
-		
+	 {
+      "key": "csp_OK荐片",
+      "name": "♻️荐片|业余",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
+      "ext": {
+        "danmu": false
+      }
 		{
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
