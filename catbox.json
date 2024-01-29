@@ -2,7 +2,7 @@
 //本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-	"wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/2.png",
+	"wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/",
    // https://img.n13.club/ 
     "spider": "./jar/ffty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
     "spider": "./jar/spider-yzl.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",//圆周率
