@@ -12,7 +12,7 @@
 	
 	 "lives": [
     {
-      "name": "春盈-爱尚",
+      "name": "春盈天下原版",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
       "ua": "okhttp/3.15",
@@ -20,7 +20,7 @@
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "git-v",
+      "name": "Git-V",
       "type": 0,
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/tvbox/main/v.txt",
       "ua": "okhttp/3.15",
@@ -28,7 +28,7 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "fanmingming",
+      "name": "fanmingming原版",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
@@ -36,9 +36,9 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "神仙天下",
+      "name": "神仙天下原版",
       "type": 0,
-      "url": "http://www.liuyunw.com:88/zb.txt",
+      "url": "https://atomgit.com/sxtv/sxtv/raw/master/zb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
