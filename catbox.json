@@ -10,38 +10,47 @@
 
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	
-	"lives": [
-      {
-            "name": "live",
-            "type": "0",
-            "pass": true,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/tvbox/main/v.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
-            "name": "JUNDIE",
-            "type": "0",
-            "pass": true,
-            "url": "http://home.jundie.top:81/ray/tvlive.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "fanmingming",
-            "type": "0",
-            "pass": true,
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+	 "lives": [
+    {
+      "name": "春盈-爱尚",
+      "type": 0,
+      "url": "https://wds.ecsxs.com/230864.json",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "江西电信",
+      "type": 0,
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXChinaNat.txt?ref=master",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "江西移动",
+      "type": 0,
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXCMCC.txt?ref=master",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "神仙天下",
+      "type": 0,
+      "url": "http://www.liuyunw.com:88/zb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    }
+  ],
   //      {"name": "本地文件",
   //          "type": "0",
   //          "pass": true,
   //          "url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live.txt",
   //          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   //          "logo": "https://epg.112114.xyz/logo/{name}.png"}
-    ],
+    
 	
   "sites": [
    
