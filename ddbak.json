@@ -7,24 +7,19 @@
 	
 	   "lives": [
         {
-            "name": "ipv6+4",
+            "name": "天微ipv6+4",
        //   "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/天微-派大星-修改.txt",//天微科技纯净直播源
             "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/天微-派大星-修改.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlZXZpL2R1by9yYXcvYnJhbmNoL21hc3Rlci92LnR4dA=="
-                    ]
-                }
-            ]
+             {
+            "name": "小酷ipv6",
+            "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/小酷ipv6.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
 	
