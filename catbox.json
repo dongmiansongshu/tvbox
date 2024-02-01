@@ -28,6 +28,7 @@
       "url": "https://wds.ecsxs.com/230864.json",
       "ua": "okhttp/3.15",
       "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
