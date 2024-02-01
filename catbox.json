@@ -17,7 +17,7 @@
  {
       "name": "原子sangni1",
       "type": 0,
-      "url": "http://gg.gg/mitvsn", //原子
+      "url": "http://gg.gg/mitvsn", //原子短链
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -69,7 +69,7 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "sangni原版",
+      "name": "原版sangni1",
       "type": 0,
       "url": "https://gitee.com/sangni2024/mingge/raw/master/1.txt",
       "playerType": 1,
