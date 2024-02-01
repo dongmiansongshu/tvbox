@@ -20,6 +20,7 @@
       "url": "http://gg.gg/mitvsn", //原子
       "ua": "okhttp/3.15",
       "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -37,6 +38,7 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/tvbox/main/v.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -63,6 +65,7 @@
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -71,6 +74,7 @@
       "url": "https://gitee.com/sangni2024/mingge/raw/master/1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
