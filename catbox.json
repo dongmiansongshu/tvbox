@@ -51,7 +51,7 @@
       "playerType": 1
     },
     {
-      "name": "范明明IPv6",
+      "name": "范明明IPv6原版m3u",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -60,12 +60,12 @@
       "playerType": 1
     },
     {
-      "name": "fanmingming原版",
+      "name": "范明明IPv6原版txt",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
