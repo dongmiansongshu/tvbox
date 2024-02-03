@@ -79,6 +79,16 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
+{
+      "name": "原子-晴天港澳（影视专用）",
+      "type": 0,
+      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/晴天mitv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    },
+
     {
             "name": "JUNDIE",
             "type": "0",
