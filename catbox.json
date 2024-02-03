@@ -388,6 +388,7 @@
       "key": "🔱官源｜腾讯🏅",
       "name": "🔱黄金｜腾讯🏅",
       "type": 3,
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/腾讯视频.js"
     },
@@ -395,6 +396,7 @@
       "key": "🔱官源｜爱奇艺🏅",
       "name": "🔱黄金｜爱奇艺🏅",
       "type": 3,
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/奇艺视频.js"
     },
@@ -402,6 +404,7 @@
       "key": "🔱官源｜优酷🏅",
       "name": "🔱黄金｜优酷🏅",
       "type": 3,
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/优酷视频.js"
     },
@@ -409,6 +412,7 @@
       "key": "🔱官源｜芒果🏅",
       "name": "🔱黄金｜芒果🏅",
       "type": 3,
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/芒果视频.js"
     },
@@ -416,6 +420,7 @@
       "key": "🔱官源｜搜狗🏅",
       "name": "🔱黄金｜搜狗🏅",
       "type": 3,
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/1.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/搜狗视频.js"
     },
@@ -424,7 +429,8 @@
       "name": "🔱黄金 | 360🏅",
       "type": 3,
       "api": "csp_SP33",
-      "jar": " https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/360影视.jar",
+      "ext": " https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/360影视.jar",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
