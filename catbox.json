@@ -598,19 +598,17 @@
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/1.js",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/搜狗视频.js"
     },
-    {
+{
       "key": "🔱官源 | 360🏅",
-      "name": "🔱黄金 | 360🏅",
+      "name": "🔱官源 | 360🏅",
       "type": 3,
       "api": "csp_SP33",
-      "ext": " https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/360影视.jar",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
+      "jar": " https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/360影视.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
-
  {
       "key": "meowtv_lzzy",
       "name": "📚┃拾光┃量子",
@@ -873,6 +871,52 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+        {
+      "name": "黄金加速",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.18 (dart:io)"
+        }
+      }
     },
     {
       "name": "Json轮询",
