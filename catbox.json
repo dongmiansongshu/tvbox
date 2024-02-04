@@ -9,7 +9,7 @@
 //	"spider": "./jar/xyq.jar;md5;316660b0adb299c1dc63587579a3522e",//香雅情
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;43485bc25714193e43f131def06329d9",
 //香雅情
-
+ "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视
 
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
@@ -268,17 +268,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
     },
-
-        {
-      "key": "csp_厂长", //荷城茶秀
-      "name": "🅱️┃厂长┃荷城",
-      "type": 3,
-      "api": "csp_CsCz",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://bo.czys.me@@荷城茶秀",
-      "jar": "http://rihou.cc:88/hccx/Hccx.jar"
-    },
    {
       "key": "Czsapp",
       "name": "🏭┃厂长┃饭硬",
@@ -290,6 +279,141 @@
       "changeable": 1,
       "ext": "https://www.czzy55.com/"
     },
+//=====================荷城茶秀================
+           {
+      "key": "csp_厂长", //荷城茶秀
+      "name": "🅱️┃厂长┃荷城",
+      "type": 3,
+      "api": "csp_CsCz",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://bo.czys.me@@荷城茶秀",
+      "jar": "http://rihou.cc:88/hccx/Hccx.jar"
+    },
+ {
+      "key": "csp_南瓜",
+      "name": "🅱️南瓜┃荷城",
+      "type": 3,
+      "api": "csp_AppNg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀",
+      "jar": "http://rihou.cc:88/hccx/Hccx.jar"
+    },
+    {
+      "key": "csp_xBPQ_玖八",
+      "name": "🅱️玖八┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/98影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "🅱️七新┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/七新影视.json"
+    },
+    {
+      "key": "csp_星辰",
+      "name": "🅱️星辰┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/星辰影视.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🅱️农民┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/农民影视.json"
+    },
+    {
+      "key": "csp_骚火",
+      "name": "🅱️骚火┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/骚火影视.json"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "🅱️蛋蛋┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/蛋蛋影视.json"
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "🅱️奇优┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/奇优影视.json"
+    },
+    {
+      "key": "csp_爱看",
+      "name": "🅱️爱看┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/爱看影视.json"
+    },
+    {
+      "key": "csp_xBPQ_视觉",
+      "name": "🅱️视觉┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/新视觉影视.json"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "🅱️黑狐┃荷城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/黑狐影视.json"
+    },
+    {
+      "key": "csp_JianPian",
+      "name": "🅱️荐片┃荷城",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+
     {
       "key": "影探",
       "name": " 🕵┃影探┃肥猫",
