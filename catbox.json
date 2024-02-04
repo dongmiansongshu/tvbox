@@ -413,7 +413,26 @@
       "filterable": 1,
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
     },
+    {
+      "key": "cctv",
+      "name": "📺央视┃大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "http://rihou.cc:88/hccx/央视大全.json"
+    },
 
+    {
+      "key": "央视经典",
+      "name": "📺央视┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/哔哩经典.json"
+    },
     {
       "key": "影探",
       "name": " 🕵┃影探┃肥猫",
