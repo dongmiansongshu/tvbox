@@ -88,6 +88,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
+        {
+      "name": "猎狼免费直播源",
+      "type": 0,
+      "url": "aHR0cHM6Ly81Mi5sbHR2OC5jbi9UVkJveC90di93enR2LnBocA==",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
     {
             "name": "JUNDIE",
