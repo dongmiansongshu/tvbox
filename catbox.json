@@ -91,7 +91,7 @@
         {
       "name": "猎狼免费直播源",
       "type": 0,
-      "url": "aHR0cHM6Ly81Mi5sbHR2OC5jbi9UVkJveC90di93enR2LnBocA==",
+      "url": "http://103.116.247.170:8081",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
