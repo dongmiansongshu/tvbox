@@ -89,9 +89,9 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "猎狼免费直播源",
+      "name": "猎狼免费直播-原子",
       "type": 0,
-      "url": "http://103.116.247.170:8081",
+      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/猎狼TV直播含动画片.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
