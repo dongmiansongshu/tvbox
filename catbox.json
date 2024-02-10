@@ -274,6 +274,18 @@
       "filterable": 1,
       "ext": "http://tv.bl4k.xyz/api.php/app/"
     },
+
+    {
+      "key": "yingshiche",
+      "name": "🚒影视车",
+      "type": 3,
+      "jar": "http://yydf:abcd@yydf.540734621.xyz/业余打发/影视/txt/yingshiche.txt;md5;303eadd615ea122247a00e08689f0787",
+      "api": "csp_Yingshiche",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
   {
       "key": "drpy_js_金曼影视",
       "name": "🦐┃金曼┃道长",
