@@ -17,9 +17,9 @@
 	 "lives": [
  
  {
-      "name": "原子sangni1",
+      "name": "原子综合",
       "type": 0,
-      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/sangni1改.txt", //原子
+      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/zh.txt", //晴天+sn1
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
