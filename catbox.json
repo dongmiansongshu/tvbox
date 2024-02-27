@@ -17,7 +17,7 @@
 	 "lives": [
  
  {
-      "name": "原子综合",
+      "name": "原子综合直播源",
       "type": 0,
       "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/zh.txt", //晴天+sn1
       "ua": "okhttp/3.15",
@@ -588,7 +588,7 @@
 
         },
 
-{"key":"开心HK影视","name":"🎦┃开心┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"开心HK影视","name":"🎦┃开心┃有广","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/开心HK影视.json"},
 {"key":"开心影视","name":"🎦┃开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
