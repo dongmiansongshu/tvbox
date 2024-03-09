@@ -462,12 +462,12 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "./libs/央视大全.json"
+      "ext": "http://rihou.cc:88/hccx/央视大全.json"
     },
 
     {
       "key": "央视经典",
-      "name": "📺央视┃经典",//荷城 or开心
+      "name": "📺央视┃经典",//荷城 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
