@@ -286,7 +286,7 @@
 
     {
       "key": "yingshiche",
-      "name": "🚒影视车",
+      "name": "🚒影视车┃阿里",
       "type": 3,
       "jar": "http://yydf:abcd@yydf.540734621.xyz/业余打发/影视/txt/yingshiche.txt;md5;303eadd615ea122247a00e08689f0787",
       "api": "csp_Yingshiche",
@@ -457,23 +457,23 @@
     },
     {
       "key": "cctv",
-      "name": "📺央视┃大全",
+      "name": "📺央视┃大全",//荷城
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "http://rihou.cc:88/hccx/央视大全.json"
+      "ext": "./libs/央视大全.json"
     },
 
     {
       "key": "央视经典",
-      "name": "📺央视┃经典",
+      "name": "📺央视┃经典",//荷城 or开心
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://rihou.cc:88/hccx/哔哩经典.json"
+      "ext": "./libs/哔哩经典.json"
     },
     {
       "key": "影探",
