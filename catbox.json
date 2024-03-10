@@ -346,6 +346,17 @@
       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9E193E299B5D2BEE4A0A387728067F92"
     },
 
+    {
+            "key": "dr_ikanbot",
+            "name": "爱看｜BOT",
+            "type": 3,
+            "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"
+        },
+
 //=====================荷城茶秀================
            {
       "key": "csp_厂长", //荷城茶秀
