@@ -149,7 +149,17 @@
 "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
-
+  {
+      "key": "yingshiche",
+      "name": "🚒影视车┃阿里",
+      "type": 3,
+      "jar": "http://yydf:abcd@yydf.540734621.xyz/业余打发/影视/txt/yingshiche.txt;md5;303eadd615ea122247a00e08689f0787",
+      "api": "csp_Yingshiche",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
     {
 
   "key": "csp_XBPQ_6V",
@@ -284,17 +294,7 @@
       "ext": "http://tv.bl4k.xyz/api.php/app/"
     },
 
-    {
-      "key": "yingshiche",
-      "name": "🚒影视车┃阿里",
-      "type": 3,
-      "jar": "http://yydf:abcd@yydf.540734621.xyz/业余打发/影视/txt/yingshiche.txt;md5;303eadd615ea122247a00e08689f0787",
-      "api": "csp_Yingshiche",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
+  
   {
       "key": "drpy_js_金曼影视",
       "name": "🦐┃金曼┃道长",
@@ -321,29 +321,17 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
-    {
-      "key": "baipiaoys",
-      "name": "白嫖┃影视",//南风
+  {
+      "key": "csp_BaiPiao",//南风
+      "name": "👻白飘┃南风",
       "type": 3,
-      "changeable": 1,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "http://www.baipiaoys.cc/",
-        "副标题": "pic-text text-right\">&&</b>",
-        "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-        "图片": "data-original=\"&&\"",
-        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-        "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9E193E299B5D2BEE4A0A387728067F92"
+      "changeable": 1,   
+      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3935C9456192CEC444D59491031BD777"
     },
 
     {
