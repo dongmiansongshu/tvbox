@@ -544,7 +544,7 @@
       "quickSearch":1,
       "filterable":1,
       "jar": "https://atomgit.com/vip/zrj/raw/master/svip.jar",
-      "ext":"./json/WHNe.json"
+      "ext":"https://gitee.com/andyszou/tvbox/raw/master/json/WHNe.json"
       },
       {"key":"py_cctv","name": "拾光┃CCTV影视专用","type": 3,
       "api": "https://atomgit.com/vip/zrj/raw/master/227/py_cctv_1.py",
