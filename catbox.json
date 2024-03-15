@@ -534,6 +534,8 @@
       "ext": true
     },
 
+//py欧歌
+{"key":"py_cctv","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/py_cctv.json"},
     {
       "key":"py_cctv_集合",
       "name":"拾光┃央视",
