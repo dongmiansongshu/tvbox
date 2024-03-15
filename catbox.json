@@ -546,6 +546,9 @@
       "jar": "https://atomgit.com/vip/zrj/raw/master/svip.jar",
       "ext":"./json/WHNe.json"
       },
+      {"key":"py_cctv","name": "拾光┃CCTV影视专用","type": 3,
+      "api": "https://atomgit.com/vip/zrj/raw/master/227/py_cctv_1.py",
+      "jar": "https://atomgit.com/vip/zrj/raw/master/227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
     {
       "key": "影探",
       "name": " 🕵┃影探┃肥猫",
