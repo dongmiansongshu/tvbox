@@ -523,6 +523,17 @@
       "ext": "./libs/哔哩经典.json"
     },
     {
+      "key": "T4-cctv",
+      "name": "央视精选",
+      "type": 4,
+      "api": "https://catbox.n13.club/cctv.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    }
+    {
       "key": "影探",
       "name": " 🕵┃影探┃肥猫",
       "type": 3,
