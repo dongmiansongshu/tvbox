@@ -526,7 +526,7 @@
       "key": "T4-cctv",
       "name": "央视精选",
       "type": 4,
-      "api": "https://catbox.n13.club/cctv.php",
+      "api": "https://gitee.com/andyszou/tvbox/raw/master/api/cctv.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
