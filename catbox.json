@@ -2,15 +2,15 @@
 //本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-	"wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
-   // https://img.n13.club/ 
-    "spider": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-      "spider": "./jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234",//肥猫
-    "spider": "./jar/spider-yzl.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",//圆周率
-//	"spider": "./jar/xyq.jar;md5;316660b0adb299c1dc63587579a3522e",//香雅情
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;43485bc25714193e43f131def06329d9",
+"wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
+// https://img.n13.club/ 
+"spider": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",//饭太硬
+"spider": "./jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234",//肥猫
+"spider": "./jar/spider-yzl.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",//圆周率
+"spider": "./jar/xyq.jar;md5;5dbe95399010cd30706b01aa5624dbe0",//香雅情
+//"spider": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;43485bc25714193e43f131def06329d9",
 //香雅情
- "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+ "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",//荷城
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视
 
 
