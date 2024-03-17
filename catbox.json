@@ -451,17 +451,7 @@
       "filterable": 1,
       "ext": "http://rihou.cc:88/hccx/新视觉影视.json"
     },
-    {
-      "key": "csp_黑狐",
-      "name": "🅱️黑狐┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.cc:88/hccx/黑狐影视.json"
-    },
+
     {
       "key": "csp_JianPian",
       "name": "🅱️荐片┃荷城",
@@ -511,13 +501,6 @@
       {"key":"py_cctv","name": "拾光┃CCTV影视专用","type": 3,
       "api": "https://atomgit.com/vip/zrj/raw/master/227/py_cctv_1.py",
       "jar": "https://atomgit.com/vip/zrj/raw/master/227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {
-      "key": "影探",
-      "name": " 🕵┃影探┃肥猫",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js"
-    },
 
   {"key":"大米星球","name":"🌾┃大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
@@ -754,17 +737,7 @@
       "api": "csp_Nkdy",
       "searchable": 0
     },
-    {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃肥猫",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
+
     {
       "key": "比特",
       "name": "✌️️┃比特┃肥猫",
@@ -877,15 +850,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "兄弟",
-      "name": "👯┃兄弟┃肥猫",
-      "type": 3,
-      "api": "csp_Xdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
     {
       "key": "saohuo",
@@ -912,16 +877,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "开心",
-      "name": "🥰️┃开心┃肥猫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.vip:55/lib/开心HK肥猫.json"
     },
 
     {
