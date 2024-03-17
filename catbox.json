@@ -635,8 +635,8 @@
       "key": "drpy_js_优酷",
       "name": "🐉┃优酷官源┃",
       "type": 3,
-      "api": "https://atomgit.com/tvtg/tianwei/raw/main/lib/drpy2.min.js",
-      "ext": "https://atomgit.com/tvtg/tianwei/raw/main/lib/优酷.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/youku.js"
     },
 
     {
