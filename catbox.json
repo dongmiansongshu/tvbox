@@ -357,39 +357,8 @@
       "ext": "https://bo.czys.me@@荷城茶秀"
     },
 
-    {
-      "key": "csp_xBPQ_玖八",
-      "name": "🅱️玖八┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.cc:88/hccx/98影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "🅱️七新┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.cc:88/hccx/七新影视.json"
-    },
-    {
-      "key": "csp_星辰",
-      "name": "🅱️星辰┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.cc:88/hccx/星辰影视.json"
-    },
+ 
+ 
     {
       "key": "csp_农民",
       "name": "🅱️农民┃荷城",
@@ -410,17 +379,7 @@
       "filterable": 1,
       "ext": "http://rihou.cc:88/hccx/骚火影视.json"
     },
-    {
-      "key": "csp_蛋蛋",
-      "name": "🅱️蛋蛋┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.cc:88/hccx/蛋蛋影视.json"
-    },
+ 
     {
       "key": "csp_xBPQ_奇优",
       "name": "🅱️奇优┃荷城",
@@ -593,19 +552,9 @@
 	
 //{"key":"迷你库","name":"📀┃迷你┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"圆周率","name":"📀┃率率┃影视","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"飞鱼","name":"📀┃飞鱼┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.42.31.123:5820/api.php/app/"},
-//{"key":"影探","name":"📀┃影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms11.lyyytv.cn/api.php/app/"},
-//"ext":"http://vvipcms.lyyytv.cn/api.php/app/"
+
 {"key":"晴天","name":"📀┃晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-{"key":"乐迪","name":"📀┃爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
-		{
-            "key": "熊掌",
-            "name": "🎦┃熊掌┃秒播",
-            "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod"
-
-        },
 
 {"key":"开心HK影视","name":"🎦┃开心┃有广","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
