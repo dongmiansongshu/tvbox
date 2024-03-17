@@ -630,14 +630,15 @@
       "api": "./libs/drpy2.min.js",
       "ext": "./js/奇艺视频.js"
     },
+    
     {
-      "key": "🔱官源｜优酷🏅",
-      "name": "🔱┃黄金┃优酷🏅",
+      "key": "drpy_js_优酷",
+      "name": "🐉┃优酷官源┃",
       "type": 3,
-      "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
-      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-      "ext": "./js/优酷.js"
+      "api": "https://atomgit.com/tvtg/tianwei/raw/main/lib/drpy2.min.js",
+      "ext": "https://atomgit.com/tvtg/tianwei/raw/main/lib/优酷.js"
     },
+
     {
       "key": "🔱官源｜芒果🏅",
       "name": "🔱┃黄金┃芒果🏅",
