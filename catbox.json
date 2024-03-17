@@ -889,9 +889,15 @@
       "name": " 🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
+      "jar": "./jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
+//===========欧歌=============
+{"key":"南瓜影视","name":"🎄南瓜┃影视2","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/101.js"},
+{"key":"茶杯狐","name":"🎄茶杯┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/102.js"},
+{"key":"畅梦影视","name":"🎄畅梦┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/103.js"},
+{"key":"达达龟","name":"🎄达达┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/104.js"},
 
 
      {"key": "csp_Bttoo","name": "🍄┃Btto┃刘备","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,
