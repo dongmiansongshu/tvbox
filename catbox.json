@@ -911,7 +911,7 @@
 
     {
       "key": "卧龙资源",
-      "name": "🐉┃卧龙资源┃",
+      "name": "🐉┃卧龙┃飞龙",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -925,7 +925,7 @@
     },
 {
       "key": "dr_码上看NY",
-      "name": "🐉┃南亚影视┃",
+      "name": "🐉┃南亚┃飞龙",
       "type": 3,
       "api": "./libs/merge.min.js",
       "searchable": 1,
@@ -937,7 +937,7 @@
 
 {
       "key": "云播",
-      "name": "🐉┃云播影院┃",
+      "name": "🐉┃云播┃飞龙",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./libs/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
