@@ -633,10 +633,10 @@
     
     {
       "key": "drpy_js_优酷",
-      "name": "🐉┃优酷官源┃",
+      "name": "🔱┃黄金┃优酷🏅",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "ext": "./js/youku.js"
+      "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
     },
 
     {
