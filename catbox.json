@@ -311,6 +311,8 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
     },
+
+    //=====================饭太硬================
    {
       "key": "Czsapp",
       "name": "🏭┃厂长┃饭硬",
@@ -345,6 +347,47 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "酷看",
+      "name": "💡酷看┃饭硬",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃饭硬",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+        {
+      "key": "南瓜",
+      "name": "🎃南瓜┃饭硬",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "萌米",
+      "name": "👀萌米┃饭硬",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
 
 //=====================荷城茶秀================
    {
@@ -358,8 +401,7 @@
       "ext": "https://bo.czys.me@@荷城茶秀"
     },
 
- 
- 
+
     {
       "key": "csp_农民",
       "name": "🅱️农民┃荷城",
@@ -661,14 +703,7 @@
             "筛选": "1"}
         },
 //===========肥猫=============
-    {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃肥猫",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
-    },
+//南瓜已删
     {
       "key": "新视觉",
       "name": "🐦┃视觉┃肥猫",
