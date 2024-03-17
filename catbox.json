@@ -636,7 +636,7 @@
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-      "ext": "./js/优酷视频.js"
+      "ext": "./js/优酷.js"
     },
     {
       "key": "🔱官源｜芒果🏅",
