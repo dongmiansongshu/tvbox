@@ -323,7 +323,7 @@
   
      {
       "key": "白嫖",
-      "name": "👻白飘┃饭硬",
+      "name": "👻┃白飘┃饭硬",
       "type": 3,
       "api": "csp_BaiPiao",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -353,7 +353,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://bo.czys.me@@荷城茶秀",
-      "jar": "http://rihou.cc:88/hccx/Hccx.jar"
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar"
     },
  {
       "key": "csp_南瓜",
@@ -365,7 +365,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀",
-      "jar": "http://rihou.cc:88/hccx/Hccx.jar"
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar"
     },
     {
       "key": "csp_xBPQ_玖八",
