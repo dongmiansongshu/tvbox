@@ -340,7 +340,7 @@
 
     {
       "key": "77",
-      "name": "👒七七┃饭硬",
+      "name": "👒┃七七┃饭硬",
       "type": 3,
       "api": "csp_Kunyu77",
       "timeout": 15,
@@ -350,7 +350,7 @@
     },
      {
       "key": "酷看",
-      "name": "💡酷看┃饭硬",
+      "name": "💡┃酷看┃饭硬",
       "type": 3,
       "api": "csp_Kkys",
        "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -361,7 +361,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃饭硬",
+      "name": "☀┃原创┃饭硬",
       "type": 3,
       "api": "csp_YCyz",
        "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -373,7 +373,7 @@
 
         {
       "key": "南瓜",
-      "name": "🎃南瓜┃饭硬",
+      "name": "🎃┃南瓜┃饭硬",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -384,7 +384,7 @@
     },
      {
       "key": "萌米",
-      "name": "👀萌米┃饭硬",
+      "name": "👀┃萌米┃饭硬",
       "type": 3,
       "api": "csp_AppTT",
        "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -408,7 +408,7 @@
 
     {
       "key": "csp_农民",
-      "name": "🅱️农民┃荷城",
+      "name": "🅱️┃农民┃荷城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -418,7 +418,7 @@
     },
     {
       "key": "csp_骚火",
-      "name": "🅱️骚火┃荷城",
+      "name": "🅱️┃骚火┃荷城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -429,7 +429,7 @@
  
     {
       "key": "csp_xBPQ_奇优",
-      "name": "🅱️奇优┃荷城",
+      "name": "🅱️┃奇优┃荷城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -439,7 +439,7 @@
     },
     {
       "key": "csp_爱看",
-      "name": "🅱️爱看┃荷城",
+      "name": "🅱️┃爱看┃荷城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -449,7 +449,7 @@
     },
     {
       "key": "csp_xBPQ_视觉",
-      "name": "🅱️视觉┃荷城",
+      "name": "🅱️┃视觉┃荷城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -460,7 +460,7 @@
 
     {
       "key": "csp_JianPian",
-      "name": "🅱️荐片┃荷城",
+      "name": "🅱️┃荐片┃荷城",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -471,7 +471,7 @@
     },
     {
       "key": "cctv",
-      "name": "📺央视┃大全",//荷城
+      "name": "📺┃央视┃大全",//荷城
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -482,7 +482,7 @@
 
     {
       "key": "央视经典",
-      "name": "📺央视┃经典",//荷城 
+      "name": "📺┃央视┃经典",//荷城 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -534,7 +534,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-	//香雅情		"jar": "./jar/xyq.jar;md5;316660b0adb299c1dc63587579a3522e",
             "ext": "./libs/耐看点播.json"
         },
 		
@@ -698,7 +697,7 @@
             "type": 3,
             "filterable":1 ,
             "api": "csp_XBPQ",
-            "jar": "https://atomgit.com/sxtv/sxtv/raw/master/sx.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
+            "jar": "https://gitee.com/andyszou/otherbox/raw/master/shenxian/sx.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
             "ext": {
             "简介":"提醒：请勿相信影片中的广告+&&</li>",
             "线路标题": "[替换:996播放器>>神仙线路]",
