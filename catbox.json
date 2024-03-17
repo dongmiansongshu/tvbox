@@ -261,7 +261,7 @@
     },
             {
       "key": "csp_JianPian",
-      "name": "🇹┃荐片官┃秒播",//天微
+      "name": "🇹┃荐片┃天微",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -274,7 +274,7 @@
 
 {
       "key": "Fangniu4k",
-      "name": "放牛4K",
+      "name": "💥放牛4K",
       "type": 3,
       "api": "csp_Fangniu4k",
       "searchable": 1,
@@ -335,15 +335,15 @@
     },
 
     {
-            "key": "dr_ikanbot",
-            "name": "爱看｜BOT",
-            "type": 3,
-            "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"
-        },
+      "key": "77",
+      "name": "👒七七┃饭硬",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 //=====================荷城茶秀================
    {
