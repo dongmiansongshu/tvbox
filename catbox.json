@@ -357,7 +357,7 @@
     },
     {
       "key": "csp_南瓜",
-      "name": "🅱️南瓜影视|T追剧",
+      "name": "🅱️┃南瓜┃荷城",
       "type": 3,
       "api": "csp_AppHccxNg",
       "searchable": 1,
@@ -376,6 +376,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/98影视.json"
     },
     {
@@ -386,6 +387,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/七新影视.json"
     },
     {
@@ -396,6 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/星辰影视.json"
     },
     {
@@ -426,6 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/蛋蛋影视.json"
     },
     {
@@ -466,6 +470,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/黑狐影视.json"
     },
     {
