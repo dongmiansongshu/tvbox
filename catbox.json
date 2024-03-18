@@ -636,8 +636,7 @@
       "name": "🔱┃黄金┃优酷🏅",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-       "ext": "./js/youku-AES.js"
-  //    "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
+   "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
     },
 
     {
