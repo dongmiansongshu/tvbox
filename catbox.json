@@ -260,18 +260,6 @@
         "danmu": false
       }
     },
-            {
-      "key": "csp_JianPian",
-      "name": "🇹┃荐片┃天微",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
-      "jar": "http://www.wya6.cn/tz/wyog1.php"
-    },
 
 {
       "key": "Fangniu4k",
@@ -523,7 +511,7 @@
 //      {"key":"drpy_js_影渣渣","name":"🐶┃影渣渣┃影视","type":3,"api":"./libs/drpy2.min.js","ext":"./js/影渣渣.js"},
 		{
       "key": "49zy",
-      "name": "📚┃拾光┃四九",
+      "name": "📚┃四九┃拾光",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -569,7 +557,7 @@
 
 {
       "key": "csp_XYQHiker_电影牛影院",
-      "name": "📚┃拾光┃影牛",
+      "name": "📚┃影牛┃拾光",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -580,9 +568,9 @@
     },
 	
 //{"key":"迷你库","name":"📀┃迷你┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"圆周率","name":"📀┃率率┃影视","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"圆周率","name":"📀┃率率┃圆周","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
-{"key":"晴天","name":"📀┃晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+{"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 
 {"key":"开心HK影视","name":"🎦┃开心┃有广","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
@@ -599,7 +587,7 @@
 
     {
       "key": "🔱官源｜腾讯🏅",
-      "name": "🔱┃黄金┃腾讯🏅",
+      "name": "🔱┃腾讯┃黄金🏅",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./libs/drpy2.min.js",
@@ -607,7 +595,7 @@
     },
     {
       "key": "🔱官源｜爱奇艺🏅",
-      "name": "🔱┃黄金┃爱奇艺🏅",
+      "name": "🔱┃爱奇┃黄金🏅",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./libs/drpy2.min.js",
@@ -616,7 +604,7 @@
     
     {
       "key": "drpy_js_优酷",
-      "name": "🔱┃黄金┃优酷🏅",
+      "name": "🔱┃优酷┃黄金🏅",
       "type": 3,
       "api": "./libs/drpy2.min.js",
    "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
@@ -624,7 +612,7 @@
 
     {
       "key": "🔱官源｜芒果🏅",
-      "name": "🔱┃黄金┃芒果🏅",
+      "name": "🔱┃芒果┃黄金🏅",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./libs/drpy2.min.js",
@@ -632,7 +620,7 @@
     },
     {
       "key": "🔱官源｜搜狗🏅",
-      "name": "🔱┃黄金┃搜狗🏅",
+      "name": "🔱┃搜狗┃黄金🏅",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./js/sougou.js",
@@ -640,7 +628,7 @@
     },
 {
       "key": "🔱官源 | 360🏅",
-      "name": "🔱┃官源┃360🏅",
+      "name": "🔱┃360┃黄金🏅",
       "type": 3,
       "api": "csp_SP33",
       "jar": " ./js/360影视.jar",
@@ -651,7 +639,7 @@
     },
  {
       "key": "meowtv_lzzy",
-      "name": "📚┃拾光┃量子",
+      "name": "📚┃量子┃拾光",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -715,14 +703,6 @@
       "name": "✌️️┃比特┃肥猫",
       "type": 3,
       "api": "csp_Bttwo"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬┃荐片┃肥猫",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
     },
     {
       "key": "csp_Vidhub2",
@@ -918,7 +898,6 @@
       "filterable": 1,
       "ext": "./libs/NY影院.js"
     },
-
 {
       "key": "云播",
       "name": "🐉┃云播┃飞龙",
