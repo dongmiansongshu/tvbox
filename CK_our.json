@@ -7,8 +7,19 @@
 {"name":"🐉欧歌原版源","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌"},
 //{"name":"🐉欧歌备份源","url":"https://gh.con.sh/https://raw.githubusercontent.com/andyszou/box/main/ouge/ouge.json"},
 {"name":"🐹多多新源","url":"https://gitee.com/andyszou/otherbox/raw/master/xduo/xduo.txt"},
-{"name":"🎦天天开心原版源","url":"http://rihou.vip:55/天天开心"},
-{"name":"🎦天天开心备线","url":"http://tv.rihou.cc/天天开心"},
+    {
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "55c天天开心❤天天开心"
+    },
+    {
+      "url": "http://rihou.vip:55/天天开心 ",
+      "name": "55v天天开心❤天天开心"
+    },
+    {
+      "url": "http://tv.rihou.cc/天天开心",
+      "name": "天天开心[备]❤天天开心"
+    },
+
 {"name":"🐈喵影视线路原版源","url":"http://meowtv.cn/tv"},
 {"name":"🐞玉玉软件原版源","url":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json"},
 
