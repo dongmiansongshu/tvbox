@@ -4,7 +4,7 @@
 {
 "wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
 // https://img.n13.club/ 
-"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",//饭太硬
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",//饭太硬
 //"spider": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",//饭太硬
 "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",//肥猫
 //"spider": "./jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234",//肥猫
@@ -298,47 +298,11 @@
     },
 
     //=====================饭太硬================
-   {
-      "key": "Czsapp",
-      "name": "🏭┃厂长┃饭硬",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
-    },
-  
-     {
-      "key": "白嫖",
-      "name": "👻┃白飘┃饭硬",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-//      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "77",
-      "name": "👒┃七七┃饭硬",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
      {
       "key": "酷看",
-      "name": "💡┃酷看┃饭硬",
+      "name": "💡酷看┃饭硬",
       "type": 3,
       "api": "csp_Kkys",
-       "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -346,19 +310,80 @@
     },
     {
       "key": "原创",
-      "name": "☀┃原创┃饭硬",
+      "name": "☀原创┃饭硬",
       "type": 3,
       "api": "csp_YCyz",
-       "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-
-        {
+    {
+      "key": "苹果",
+      "name": "🍎小苹┃饭硬",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓视觉┃饭硬",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃饭硬",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
+      "key": "77",
+      "name": "👒七七┃饭硬",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "白嫖",
+      "name": "👻白飘┃饭硬",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com/"
+    },
+    {
+      "key": "DiDuan",
+      "name": "⏮️低端┃饭硬",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "南瓜",
-      "name": "🎃┃南瓜┃饭硬",
+      "name": "🎃南瓜┃饭硬",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -367,17 +392,80 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
+      "key": "毛驴",
+      "name": "🍓毛驴┃饭硬",
+      "type": 3,
+      "api": "csp_MLYS",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+    {
       "key": "萌米",
-      "name": "👀┃萌米┃饭硬",
+      "name": "👀萌米┃饭硬",
       "type": 3,
       "api": "csp_AppTT",
-       "jar": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃饭硬",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/"
+    },
 
+    {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃饭硬",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🍄比特┃饭硬",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "🌟立播┃饭硬",
+      "type": 3,
+      "api": "csp_Libvio",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃饭硬",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
 //=====================荷城茶秀================
    {
       "key": "csp_厂长",
