@@ -375,7 +375,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.baipiaoys.com/"
+      "ext": "https://www.baipiaoys.com:9092/"
     },
     {
       "key": "DiDuan",
