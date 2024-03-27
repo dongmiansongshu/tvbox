@@ -482,6 +482,16 @@
       "ext": "https://auete.pro/"
     },
 //=====================荷城茶秀================
+{
+      "key": "csp_xBPQ_白嫖",
+      "name": "🅱️白漂|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:88/hccx/白嫖影视.json"
+    },
    {
       "key": "csp_厂长",
       "name": "🅱️┃厂长┃荷城",
