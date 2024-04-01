@@ -19,7 +19,7 @@
 	
 	 "lives": [
  {
-      "name": "原子综合直播源",
+      "name": "Github综合直播源（短链bit-zhivt）",
       "type": 0,
       "url": "https://bit.ly/zhitv", //晴天+sn1
       "ua": "okhttp/3.15",
@@ -37,7 +37,7 @@
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "Git-V",
+      "name": "Github-V",
       "type": 0,
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/tvbox/main/v.txt",
       "ua": "okhttp/3.15",
@@ -73,7 +73,7 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "原版sangni1",
+      "name": "原版sangni1-Gitee",
       "type": 0,
       "url": "https://gitee.com/sangni2024/mingge/raw/master/1.txt",
       "playerType": 1,
@@ -82,18 +82,18 @@
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "P3P",
+      "name": "Github-P3P",
       "type": 0,
-      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/p3p.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/p3p.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
 {
-      "name": "原子-晴天港澳（影视专用）",
+      "name": "Github-晴天港澳（影视专用）",
       "type": 0,
-      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/晴天mitv.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/晴天mitv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -102,7 +102,7 @@
         {
       "name": "猎狼免费直播-原子",
       "type": 0,
-      "url": "https://atomgit.com/xiaofeifei/mitv/raw/master/猎狼TV直播含动画片.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/猎狼TV直播含动画片.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
