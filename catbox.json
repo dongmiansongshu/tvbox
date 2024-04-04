@@ -736,7 +736,7 @@
             "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
             "筛选": "1"}
         },
-//===========肥猫=============
+//===========肥猫=============💐
     {
       "key": "新视觉",
       "name": "🐦┃视觉┃肥猫",
@@ -782,14 +782,6 @@
     },
 
     {
-      "key": "csp_Freeok",
-      "name": "️️👌┃FreeOK┃肥猫",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok"
-    },
-  
-    {
       "key": "csp_Auete",
       "name": "🦝┃Aue┃肥猫",
       "type": 3,
@@ -807,14 +799,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Libvio",
-      "name": "💐┃Lib┃肥猫",
-      "type": 3,
-      "playerType": "1",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/LIBVIO.js"
-    },
+ 
     {
       "key": "FreeOK",
       "name": "️️👌┃Fre┃肥猫",
@@ -872,7 +857,7 @@
       "ext": "https://www.voflix.me/"
     },
 //===========欧歌=============
-{"key":"南瓜影视","name":"🎄┃南瓜┃欧歌","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/101.js"},
+
 {"key":"茶杯狐","name":"🎄┃茶杯┃欧歌","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/102.js"},
 {"key":"畅梦影视","name":"🎄┃畅梦┃欧歌","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/103.js"},
 {"key":"达达龟","name":"🎄┃达达┃欧歌","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/104.js"},
