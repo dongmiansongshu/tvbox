@@ -402,7 +402,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🍓┃毛驴┃饭硬",
+      "name": "🦙┃毛驴┃饭硬",
       "type": 3,
       "api": "csp_MLYS",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -437,7 +437,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "🌾┃农民┃饭硬",
+      "name": "🍓┃农民┃饭硬",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -482,16 +482,7 @@
       "ext": "https://auete.pro/"
     },
 //=====================荷城茶秀================
-{
-      "key": "csp_xBPQ_白嫖",
-      "name": "🅱️┃白漂┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.cc:88/hccx/白嫖影视.json"
-    },
+
    {
       "key": "csp_厂长",
       "name": "🅱️┃厂长┃荷城",
@@ -514,17 +505,7 @@
       "filterable": 1,
       "ext": "http://rihou.cc:88/hccx/农民影视.json"
     },
-    {
-      "key": "csp_骚火",
-      "name": "🅱️┃骚火┃荷城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.cc:88/hccx/骚火影视.json"
-    },
- 
+
     {
       "key": "csp_xBPQ_奇优",
       "name": "🅱️┃奇优┃荷城",
@@ -682,13 +663,6 @@
 
 {"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
-
-{"key":"开心HK影视","name":"🎦┃开心┃有广","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-"ext":"./libs/开心HK影视.json"},
-{"key":"开心影视","name":"🎦┃开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-"ext":"./libs/开心影视.json"},
 		
 {"key": "玩我哥哥","name":"🎦┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
@@ -887,14 +861,6 @@
  //   {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
-    {
-      "key": "saohuo",
-      "name": " 👗┃骚火┃肥猫",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/骚火.js"
-    },
 
  
     {
