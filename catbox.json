@@ -257,29 +257,6 @@
         "danmu": false
       }
     },
-
-{
-      "key": "Fangniu4k",
-      "name": "💥放牛4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"./jar/fangniu.jar"
-      },
-
-     {
-      "key": "csp_appys_布蕾",
-      "name": "🏌布蕾┃业余",
-      "type": 3,
-      "playUrl": "json:https://maya.x3322.net/api/index?parsesId=5&parsesUrl=",
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://tv.bl4k.xyz/api.php/app/"
-    },
-
   
   {
       "key": "drpy_js_金曼影视",
@@ -481,7 +458,7 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-//=====================荷城茶秀================
+//=====================荷城茶秀================🏌
 
    {
       "key": "csp_厂长",
