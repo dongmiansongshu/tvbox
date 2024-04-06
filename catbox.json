@@ -722,6 +722,21 @@
         "喜剧片"
       ]
     },
+
+        {
+      "key": "神仙影视",
+      "name": "💐┃自营┃神仙",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar": "http://www.liuyunw.com:88/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
+      }
+    },
  {
             "key": "996",
             "name": "🛶┃996影视┃神仙",
