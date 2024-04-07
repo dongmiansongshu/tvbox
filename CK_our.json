@@ -41,7 +41,10 @@
 {"name":"📛挺好丨PG-20240319","url": "http://ztha.top/pg/jsm.json"},
 {"name":"📛挺好丨影视线路","url":"http://ztha.top/TVBox/thfsjk.json"},
 {"name":"🧶挺好丨挺好[JS]","url":"http://ztha.top/catjs/JS/js.json"},
-
+  {
+            "url": "http://api.lotics.com",
+            "name": "🚀龙门影视"
+        },
 {"name":"🦌挺好丨吾爱影视","url":"http://52bsj.vip:98/wuai"},
 {"name":"🧊挺好丨月光宝盒","url":"https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"},  
 {"name":"🧶挺好丨小米","url": "http://xhww.fun/小米/DEMO.json"},
