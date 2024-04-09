@@ -759,6 +759,7 @@
       "key": "csp_Vidhub2",
       "name": "🎼┃Vid┃肥猫",
       "type": 3,
+       "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
@@ -770,6 +771,7 @@
       "name": " 🕵┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -779,6 +781,7 @@
       "name": "🦝┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -788,6 +791,7 @@
       "name": "👀┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -814,11 +818,29 @@
 
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
 
- 
+  {
+      "key": "兄弟",
+      "name": "👯┃兄弟┃肥猫",
+      "type": 3,
+      "api": "csp_Xdys",
+       "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "外剧影视",
+      "name": "🙋┃外剧┃肥猫",
+      "type": 3,
+      "playerType": "1",
+   "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",  
+      "api": "csp_KmeiJu"
+    },
     {
       "key": "csp_Xb6v",
       "name": "🐤┃6V磁┃肥猫",
       "type": 3,
+"jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",  
       "api": "csp_Xb6v",
       "playerType": "2"
     },
@@ -845,7 +867,7 @@
       "name": " 🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
-      "jar": "./jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234",
+"jar": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",  
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
