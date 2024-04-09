@@ -19,13 +19,15 @@
 	
 	 "lives": [
  {
-      "name": "Github综合直播源（短链bit-zhitv）",
+      "name": "综合直播源（短链bit-zhitv）",
       "type": 0,
       "url": "https://bit.ly/zhitv", //晴天+sn1
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "epg":"https://epg.112114.eu.org/?ch={name}&date={date}"
+    //  "logo": "https://epg.112114.xyz/logo/{name}.png",
+   //   "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "春盈天下原版",
@@ -277,7 +279,7 @@
     //=====================饭太硬================
      {
       "key": "酷看",
-      "name": "💡┃酷看┃饭硬",
+      "name": "😎┃酷看┃饭硬",
       "type": 3,
       "api": "csp_Kkys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
@@ -288,7 +290,7 @@
     },
     {
       "key": "原创",
-      "name": "☀┃原创┃饭硬",
+      "name": "⛅️┃原创┃饭硬",
       "type": 3,
       "api": "csp_YCyz",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -299,7 +301,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎┃小苹┃饭硬",
+      "name": "🍎┃苹果┃饭硬",
       "type": 3,
       "api": "csp_LiteApple",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -321,7 +323,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔┃厂长┃饭硬",
+      "name": "🏭️┃厂长┃饭硬",
       "type": 3,
       "api": "csp_Czsapp",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -356,7 +358,7 @@
     },
     {
       "key": "DiDuan",
-      "name": "⏮️┃低端┃饭硬",
+      "name": "🍄┃低端┃饭硬",
       "type": 3,
       "api": "csp_Ddrk",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
@@ -414,7 +416,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "🍓┃农民┃饭硬",
+      "name": "👨‍🌾‍┃农民┃饭硬",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
