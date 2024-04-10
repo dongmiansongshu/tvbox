@@ -526,7 +526,7 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+//      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/央视大全.json"
     },
 
@@ -541,8 +541,8 @@
       "ext": "./libs/哔哩经典.json"
     },
 
- {"key":"py_央视片库","name":"📺cctv片库(py)","type":3,"playerType":2,"api":"py_cctv",
-  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
+ {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
+//  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
  "ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
 
   {"key":"大米星球","name":"🌾┃大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
