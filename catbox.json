@@ -880,25 +880,18 @@
       "key": "橘子",
       "name": "👑橘子影视👑",
       "type": 3,
+      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
       "api": "csp_YMApp",
       "ext": "https://cloud.lxweb.cn/f/VeWjir/juzi.txt" } ,
         
    {"key":"rebo","name":"👑热播影视👑","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
-     {
-    "key": "nmys ",
-    "name": "👑农民秒播👑",
-    "type": 3,
-    "api": "csp_YMNm",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 0,
-"ext":"https://api.cnmcom.com/webcloud/nmapidd/anmm.php?url="
-   
+  
 },  
     {
       "key": "csp_Bdys",
       "name": "👑哔嘀资源👑",
       "type": 3,"playerType":1,
+      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
       "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
@@ -947,7 +940,7 @@
   "免嗅": "0" 
 }},
 
-  {"key":"圣城影视","name":"👑圣城影视👑","type":3,"api":"csp_XBPQ",
+  {"key":"圣城影视","name":"👑┃圣城┃夜猫","type":3,"api":"csp_XBPQ",
  "searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":  {  
     "站名":"圣城影视", 
     "主页url":"https://sc1080.top/",
@@ -978,7 +971,7 @@
 {"key":"csp_freeok","name":"👑夜猫菲克👑","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
  {
       "key": "乐视",
-      "name": "👑乐视采集👑",
+      "name": "👑┃乐视采集┃夜猫",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
@@ -1013,7 +1006,7 @@
    
    {
    "key": "短剧侠",
-   "name": "👑爱短剧侠👑",
+   "name": "👑┃爱短剧侠┃夜猫",
    "type": 3,
    "searchable":1,"filterable":1,
  "quickSearch":1,"playerType":1,
@@ -1029,7 +1022,7 @@
 
    {
 		    "key": "电影狗",
-		    "name": "👑电影狗影视👑",
+		    "name": "👑┃电影狗┃夜猫",
 		    "type": 3,
 		    "playerType": 2,
 		    "api": "csp_AppYsV2",
@@ -1047,7 +1040,7 @@
 		},
      {
       "key": "dr_sk100",
-      "name": "👑SK100影视👑",
+      "name": "👑┃SK100┃夜猫",
       "type": 3,
       "api": "https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js",
       "searchable": 1,
@@ -1058,7 +1051,7 @@
  
       {
       "key": "py_1905",
-      "name": "👑19老电影👑",
+      "name": "👑┃1905┃夜猫",
       "type": 3,
       "api": "py_1905",
     "playerType": 1,
@@ -1069,7 +1062,7 @@
     },
   {
 		    "key": "聚合短剧",
-		    "name": "👑聚合短剧👑",
+		    "name": "👑┃聚合短剧┃夜猫",
 		    "type": 3,
 		    "api": "csp_AppYsV2",
 		    "searchable": 1,
@@ -1077,10 +1070,10 @@
 		    "filterable": 1,
 		    "ext": "http://122.228.84.103:6822/api.php/app/"
 		}, 
-{"key":"suy","name":"👑速映影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/gxrpsK/%E9%80%9F%E6%98%A0%E5%BD%B1%E9%99%A2.json"},
+{"key":"suy","name":"👑┃速映┃夜猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/gxrpsK/%E9%80%9F%E6%98%A0%E5%BD%B1%E9%99%A2.json"},
  {
       "key": "奇趣影视",
-      "name": "👑奇趣影视👑",
+      "name": "👑┃奇趣┃夜猫",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -1122,12 +1115,13 @@
     },
  
     
-   {"key":"zp","name":"👑臻品影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/JPlEUk/%E8%87%BB%E5%93%81%E7%94%B5%E5%BD%B1.json"},    
+   {"key":"zp","name":"👑┃臻品┃夜猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/JPlEUk/%E8%87%BB%E5%93%81%E7%94%B5%E5%BD%B1.json"},    
  
     {"key":"csp_slgq","name":"👑石榴蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/kGzqTp/%E7%9F%B3%E6%A6%B4%E9%AB%98%E6%B8%85.json"},
   
     
-  {  "key": "金曼TV",                     "name": "👑金曼影视👑", 
+  {  "key": "金曼TV",                     
+  "name": "👑┃金曼┃夜猫", 
       "type": 3,  
       "playerType": 1,    
       "api": "csp_XBPQ",
@@ -1141,7 +1135,7 @@
 
      {
       "key": "黑狐",
-      "name": "👑黑狐影视👑",
+      "name": "👑┃黑狐┃夜猫",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -1185,7 +1179,7 @@
 
       {
             "key": "qiyue",
-            "name": "👑七月蓝光👑",
+            "name": "👑┃七月┃夜猫",
             "type": 3,"playerType":2,
             "api": "csp_XBPQ",
              "searchable": 1,
@@ -1195,7 +1189,7 @@
         },   
    {
             "key": "hanju",
-            "name": "👑天天韩剧👑",
+            "name": "👑┃天天韩剧┃夜猫",
             "type": 3,"playerType":2,
             "api": "csp_XBPQ",
              "searchable": 1,
@@ -1218,7 +1212,7 @@
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
  {
       "key": "酷",
-      "name": "👑爱酷采集👑",
+      "name": "👑┃爱酷┃夜猫",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "playUrl": "",
