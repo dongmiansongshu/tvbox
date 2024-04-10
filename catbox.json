@@ -526,7 +526,7 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-//      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+     "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
       "ext": "http://rihou.cc:88/hccx/央视大全.json"
     },
 
