@@ -1276,17 +1276,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },
     
-    {
-            "key": "js_007",
-            "name": "🚛‍┃特工┃影视",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/007.js"
-        },		
-
         {
             "key": "cjzy_暴风资源",
             "name": "🎈┃暴风┃影视",
