@@ -884,7 +884,7 @@
       "api": "csp_YMApp",
       "ext": "https://cloud.lxweb.cn/f/VeWjir/juzi.txt" } ,
         
-   {"key":"rebo","name":"👑热播影视👑","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
+   {"key":"rebo","name":"👑┃热播┃夜猫","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar","ext":"http://v.rbotv.cn"},
   
     {
@@ -927,7 +927,7 @@
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm",
     "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3"  
     }},
-{"key":"csp_freeok","name":"👑夜猫菲克👑","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_freeok","name":"👑┃菲克┃夜猫","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
  {
       "key": "乐视",
       "name": "👑┃乐视采集┃夜猫",
