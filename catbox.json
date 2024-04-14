@@ -531,6 +531,20 @@
 //  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
  "ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
 
+{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,"api": "./lib/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
+{ "key":"py_cctv_集合",
+      "name":"拾光☪央视影视仓专用",
+      "type":3,
+      "style":{"type":"rect","ratio":1.485},
+      "api":"py_cctv",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/WHNe.json"
+    },
+
+
+
   {"key":"大米星球","name":"🌾┃大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./libs/大米星球.js"},
