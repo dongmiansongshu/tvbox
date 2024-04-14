@@ -37,7 +37,7 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "神仙原版直播",
@@ -64,7 +64,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "原版sangni1949-Gitee",
@@ -73,7 +73,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "Github-P3P",
@@ -82,7 +82,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
 {
       "name": "Github-晴天港澳（影视专用）",
@@ -91,7 +91,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
       "name": "Github-动画",
