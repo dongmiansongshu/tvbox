@@ -12,16 +12,14 @@
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	
 	 "lives": [
- {
+    {
       "name": "综合直播源（短链bit-zhitv）",
       "type": 0,
-      "url": "https://bit.ly/zhitv", //晴天+sn1
+      "url": "https://bit.ly/zhitv",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
-    //  "logo": "https://epg.112114.xyz/logo/{name}.png",
-   //   "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "春盈天下原版",
@@ -39,13 +37,13 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "神仙原版直播",
       "type": 0,
       "url": "http://www.liuyunw.com:88/zb.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "playerType": 1
@@ -54,7 +52,7 @@
       "name": "范明明IPv6原版m3u",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "playerType": 1
@@ -66,16 +64,16 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "原版sangni1-Gitee",
+      "name": "原版sangni1949-Gitee",
       "type": 0,
-      "url": "https://gitee.com/sangni2024/mingge/raw/master/1.txt",
+      "url": "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "Github-P3P",
@@ -84,7 +82,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
 {
       "name": "Github-晴天港澳（影视专用）",
@@ -93,15 +91,15 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "猎狼免费直播-原子",
+      "name": "Github-动画",
       "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/猎狼TV直播含动画片.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/donghua.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -109,7 +107,7 @@
             "type": "0",
             "pass": true,
             "url": "http://home.jundie.top:81/ray/tvlive.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
   ],
