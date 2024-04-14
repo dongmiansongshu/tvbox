@@ -314,17 +314,7 @@
       "changeable": 1,
       "ext": "https://www.czys03.com/"
     },
-    {
-      "key": "77",
-      "name": "👒┃七七┃饭硬",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+        {
       "key": "白嫖",
       "name": "👻┃白飘┃饭硬",
       "type": 3,
@@ -336,6 +326,17 @@
       "changeable": 1,
       "ext": "https://www.baipiaoys.com:9092/"
     },
+    {
+      "key": "77",
+      "name": "👒┃七七┃饭硬",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
     {
       "key": "DiDuan",
       "name": "🍄┃低端┃饭硬",
@@ -528,7 +529,7 @@
     },
 
  {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
-//  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
+"jar": "./jar/pg.jar",
  "ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
 
 {"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,"api": "./libs/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -536,6 +537,7 @@
       "name":"拾光☪央视影视仓专用",
       "type":3,
       "style":{"type":"rect","ratio":1.485},
+      "jar": "./jar/pg.jar",
       "api":"py_cctv",
       "searchable":1,
       "quickSearch":1,
@@ -543,7 +545,18 @@
       "ext":"./libs/WHNe.json"
     },
 
-
+{
+			"key": "Bdys_spider",
+			"name": "哔滴┃磁力",
+            "jar": "./jar/pg.jar",
+			"api": "csp_Bdys01",
+			"type": 3,
+			"filterable": 1,
+			"searchable":0,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://www.bdys10.com/$$$null$$$1"
+		},
 
   {"key":"大米星球","name":"🌾┃大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
