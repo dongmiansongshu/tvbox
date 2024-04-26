@@ -254,7 +254,7 @@
   
 
 
-    //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=🛒影视应用商店====
+    //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=====
      {
       "key": "酷看",
       "name": "😎┃酷看┃饭硬",
@@ -530,9 +530,7 @@
 "jar": "./jar/pg.jar",
  "ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
 
-{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,
-"api": "./libs/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
-
+{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,"api": "./libs/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
 { "key":"py_cctv_集合",
       "name":"拾光☪央视影视仓专用",
       "type":3,
@@ -676,7 +674,7 @@
       "name": "🔱┃优酷┃黄金🏅",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6529/mitv/youku.js" //我的
+   "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
     },
 
     {
@@ -1563,9 +1561,6 @@
       "url": "https://www.ckplayer.vip/jiexi/?url="
     }
   ],
-
-
-
   "flags": [
     "youku",
     "qq",
