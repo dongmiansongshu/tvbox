@@ -251,8 +251,6 @@
         "danmu": false
       }
     },
-  
-
 
     //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=🛒影视应用商店====
      {
@@ -649,7 +647,7 @@
 {"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 		
-{"key": "玩我哥哥","name":"🎦┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
+{"key": "玩我哥哥","name":"🥰️┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/玩我哥哥.json"},
