@@ -5,7 +5,7 @@
     {
       "name": "综合直播源（天霜-zhitv）",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
+      "url": "https://s2.pub/zh",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
