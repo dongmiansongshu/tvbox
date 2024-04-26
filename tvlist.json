@@ -5,7 +5,7 @@
     {
       "name": "综合直播源（天霜-zhitv）",
       "type": 0,
-      "url": "https://s2.pub/zh",
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/xiaofeifei/mitv/raw/zh.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
