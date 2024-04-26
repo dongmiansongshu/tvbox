@@ -13,9 +13,9 @@
 	
 	 "lives": [
     {
-      "name": "综合直播源（短链bit-zhitv）",
+      "name": "综合直播源（天霜-zhitv）",
       "type": 0,
-      "url": "https://bit.ly/zhitv",
+      "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -24,7 +24,7 @@
     {
       "name": "春盈天下原版",
       "type": 0,
-      "url": "https://wds.ecsxs.com/231725.css",
+      "url": "https://wds.ecsxs.com/231738.js",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -94,9 +94,9 @@
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "Github-动画",
+      "name": "天霜-动画",
       "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/donghua.txt",
+      "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
