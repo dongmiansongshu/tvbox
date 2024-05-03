@@ -3,7 +3,7 @@
 
 	 "lives": [
     {
-      "name": "综合直播源（天霜-zhitv）",
+      "name": "综合直播源（天霜-zh）",
       "type": 0,
       "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
       "ua": "okhttp/3.15",
