@@ -535,7 +535,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./libs/cctvdq.py"
+      "ext": "./libs/cctv_dq.py"
     }, //开心
 
 //{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,
