@@ -504,7 +504,7 @@
     },
     {
       "key": "cctv",
-      "name": "📺┃央视┃大全",//荷城
+      "name": "📺┃央视┃大全",//荷城 CCTV13高端访谈CCTV10百家讲坛 （影视仓x荷城原版可以, catbox ok，影视ok）
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -515,7 +515,7 @@
 
     {
       "key": "央视经典",
-      "name": "📺┃央视┃经典",//荷城 
+      "name": "📺┃央视┃经典",//荷城 影视仓ok, catbox ok，影视ok
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -526,23 +526,23 @@
 
  {
       "key": "py_cctv",
-      "name": "🌔┃央视大全py┃开心",
+      "name": "🌔┃央视大全py┃开心", //影视仓ok, catbox X,影视x
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./libs/cctv_dq.py"
-    }, //开心
+    }, 
 
      {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
- "jar": "./jar/pg.jar","ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
+ "jar": "./jar/pg.jar","ext":"https://cally66.icu/py/央视片库.py"},//满佬cally 影视仓x catbox X 影视x
 
 //{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,
 // "api": "https://6529.kstore.space/mitv/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 { "key":"py_cctv_集合",
-      "name":"拾光☪央视影视仓专用",
+      "name":"拾光☪央视┃影视仓专用",//影视仓ok , catbox X 影视x
       "type":3,
       "style":{"type":"rect","ratio":1.485},
       "jar": "./jar/pg.jar",
