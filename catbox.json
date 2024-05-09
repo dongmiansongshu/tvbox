@@ -538,8 +538,8 @@
      {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
  "jar": "./jar/pg.jar","ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
 
-{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,
-"api": "https://6529.kstore.space/mitv/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,
+// "api": "https://6529.kstore.space/mitv/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 { "key":"py_cctv_集合",
       "name":"拾光☪央视影视仓专用",
