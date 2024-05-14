@@ -27,6 +27,35 @@
       "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+	
+	{
+      "name": "（4）节目-景区",
+      "type": 0,
+      "url": "https://cloud.lxweb.cn/f/RoM7TO/jingqu.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+	{
+      "name": "（20）节目-转一",
+      "type": 0,
+      "url": "https://s2.pub/zhuan1",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+	{
+      "name": "（21）节目-转二",
+      "type": 0,
+      "url": "https://s2.pub/zhuan2",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+	
     {
       "name": "Github-V",
       "type": 0,
@@ -91,7 +120,7 @@
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "动画[天霜]",
+      "name": "（6）节目-动画",
       "type": 0,
       "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
       "playerType": 1,
@@ -108,5 +137,4 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
   ]
-
 }
