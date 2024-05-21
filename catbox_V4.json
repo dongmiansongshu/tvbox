@@ -1,28 +1,30 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
 "wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
+ "logo": "https://5b0988e595225.cdn.sohucs.com/images/20180815/1e2f7967fd4d4c91ad3217e15878a2c3.gif",
 // https://img.n13.club/ 
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
-"spider": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0", //饭太硬
+"spider": "./jar/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
 
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	
 	 "lives": [
     {
-      "name": "综合直播源（短链bit-zhitv）",
+      "name": "综合直播源[天霜-zh]",
       "type": 0,
-      "url": "https://bit.ly/zhitv",
+      "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     }
- 
+    
   ],
 
-	
   "sites": [
        {
             "key": "js豆瓣",
@@ -155,10 +157,8 @@
         "danmu": false
       }
     },
-  
 
-
-    //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=====
+    //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=🛒影视应用商店====
      {
       "key": "酷看",
       "name": "😎┃酷看┃饭硬",
@@ -206,22 +206,22 @@
     {
       "key": "厂长",
       "name": "🏭️┃厂长┃饭硬",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
+      "jar": "./jar/fan.txt",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://www.czys.top/"
     },
         {
       "key": "白嫖",
       "name": "👻┃白飘┃饭硬",
       "type": 3,
       "api": "csp_BaiPiao",
- "jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
+ "jar": "./jar/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -294,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/"
+      "ext": "https://www.zxzjhd.com/"
     },
 
     {
@@ -410,7 +410,7 @@
     },
     {
       "key": "cctv",
-      "name": "📺┃央视┃大全",//荷城
+      "name": "📺┃央视┃大全",//荷城 CCTV13高端访谈CCTV10百家讲坛 （影视仓ok, catbox ok，影视ok）
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -421,7 +421,7 @@
 
     {
       "key": "央视经典",
-      "name": "📺┃央视┃经典",//荷城 
+      "name": "📺┃央视┃经典",//荷城 影视仓ok, catbox ok，影视ok
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -430,13 +430,27 @@
       "ext": "./libs/哔哩经典.json"
     },
 
- {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
-"jar": "./jar/pg.jar",
- "ext":"https://cally66.icu/py/央视片库.py"},//满佬cally
+ {
+      "key": "py_cctv",
+      "name": "🌔┃央视大全py┃开心", //影视仓ok, catbox X,影视x
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./libs/cctv_dq.py"
+    }, 
 
-{"key":"py_cctv","name": "拾光☪CCTV影视专用","type": 3,"api": "./libs/py_cctv_1.py","searchable": 0,"quickSearch": 0,"filterable": 0},
+     {"key":"py_央视片库","name":"📺┃央视┃片库(py)","type":3,"playerType":2,"api":"py_cctv",
+ "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
+ "ext":"http://122.51.37.23/man/py/央视片库.py"},//满佬cally1  影视仓ok catbox X 影视x
+
+{"key":"py_cctv_ys","name": "☪┃央视┃影视专用","type": 3,
+"api": "https://6529.kstore.space/mitv/py_cctv_1.py",
+"searchable": 0,"quickSearch": 0,"filterable": 0}, //拾光 影视ok
+
 { "key":"py_cctv_集合",
-      "name":"拾光☪央视影视仓专用",
+      "name":"☪┃央视┃影视仓专用",//影视仓ok , catbox X 影视x
       "type":3,
       "style":{"type":"rect","ratio":1.485},
       "jar": "./jar/pg.jar",
@@ -444,7 +458,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./libs/WHNe.json"
+      "ext":"https://6529.kstore.space/mitv/WHNe.json"
     },
 
 {
@@ -551,7 +565,7 @@
 {"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 		
-{"key": "玩我哥哥","name":"🎦┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
+{"key": "玩我哥哥","name":"🥰️┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
 "jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/玩我哥哥.json"},
@@ -578,7 +592,7 @@
       "name": "🔱┃优酷┃黄金🏅",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-   "ext": "https://d.kstore.space/download/6529/mitv/youku.js"
+   "ext": "https://d.kstore.space/download/6529/mitv/youku.js" //我的
     },
 
     {
@@ -645,24 +659,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类url": "https://ys.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
       }
     },
- {
-            "key": "996",
-            "name": "🛶┃996影视┃神仙",
-            "type": 3,
-            "filterable":1 ,
-            "api": "csp_XBPQ",
-      //      "jar": "https://gitee.com/andyszou/otherbox/raw/master/shenxian/sx.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
-            "ext": {
-            "简介":"提醒：请勿相信影片中的广告+&&</li>",
-            "线路标题": "[替换:996播放器>>神仙线路]",
-            "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-            "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-            "筛选": "1"}
-        },
+
+    {
+      "key": "影视工厂",
+      "name": "💐┃影视工厂┃神仙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
+ 
 //===========肥猫===========🐦==💐
 
     {
@@ -1194,7 +1206,16 @@
                 "斯诺克",
                 "影视解说"
             ]			
-        },		
+        },
+        {"key": "66影视","name": "🎈┃66┃影视","type": 3,   "api": "csp_XBPQ","ext": {"简介":"剧情介绍: +col-pd text-collapse content\">&&</div>","线路数组":"#playlist&&</li>","播放数组":"myui-content__list scrollbar sort-list clearfix\"&&</ul>","分类url": "https://www.6e6e.net/list/index_{cateId}{catePg}.html[https://www.6e6e.net/list/index_{cateId}.html]","分类": "国产剧$guochan#香港剧$xianggang#欧美剧$oumei#日剧$riben#韩剧$hanguo#海外剧$haiwai#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#剧情片$juqing#战争片$zhanzheng#综艺$zy#动漫$dm"}},
+
+         {"key": "侠客影视",
+                "name": "🎈┃侠客┃影视",
+                "type": 1,
+                "api": "http://1.xkys.link/api.php/tvbox",
+                "searchable": 1,
+                "changeable": 1,
+                "filterable": 0},		
         {
             "key": "鑫鑫影视",
             "name": "🥇┃鑫鑫┃影视",
@@ -1205,7 +1226,66 @@
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },
-    
+    {
+      "key": "红枸杞",
+      "name": "🌹┃红枸杞┃西夏",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "剧情",
+        "动作",
+        "冒险",
+        "同性",
+        "喜剧",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "惊悚",
+        "灾难",
+        "爱情",
+        "犯罪",
+        "科幻",
+        "动画电影",
+        "歌舞",
+        "战争",
+        "经典",
+        "网络电影",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "欧美",
+        "日本",
+        "韩国",
+        "国产",
+        "港台",
+        "古装",
+        "虐恋",
+        "逆袭",
+        "悬疑",
+        "神豪",
+        "重生",
+        "复仇",
+        "穿越",
+        "甜宠",
+        "强者"
+      ]
+    },
         {
             "key": "cjzy_暴风资源",
             "name": "🎈┃暴风┃影视",
@@ -1465,6 +1545,23 @@
       "url": "https://www.ckplayer.vip/jiexi/?url="
     }
   ],
+
+//ouge
+"rules":
+    [{"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
+	{"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
+	{"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
+	{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+
+	{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
+	{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+	{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+	{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
+	{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
+	
+
   "flags": [
     "youku",
     "qq",
