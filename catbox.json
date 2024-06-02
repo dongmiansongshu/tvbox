@@ -226,9 +226,6 @@
             "filterable": 1
         },	
 
-  //  { "key": "贱贱",  "searchable": 1,"quickSearch": 1, "changeable": 1, "playerType": "1",
- //           "api": "./libs/drpy2.min.js","ext": "./js/jp.js"  },
-	
         {
       "key": "drpy_js_荐片",
       "name": "👽┃荐片┃道长",
