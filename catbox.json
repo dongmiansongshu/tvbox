@@ -238,7 +238,7 @@
     },
 
     {
-      "jar": ".jar/danmu.jar",
+      "jar": "./jar/danmu.jar",
       "key": "csp_OK荐片",
       "name": "♻️┃荐片┃业余",
       "type": 3,
