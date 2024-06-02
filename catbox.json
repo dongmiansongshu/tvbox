@@ -210,7 +210,8 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/andyszou/tvbox/raw/master/libs/jianpian.json"
+       "jarr": "http://box.iqinu.com/jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
+      "ext": "./libs/jianpian.json"
     },
     {
       "key": "drpy_js_荐片影视",
