@@ -553,6 +553,33 @@
       "ext":"https://6529.kstore.space/mitv/WHNe.json"
     },
 
+     {
+      "key": "Bili",
+      "name": "🅱️┃哔哩┃合集", //拾光
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./libs/bilibili.json",
+       "jar": "./jar/svip.jar"
+    },
+       {
+      "key": "csp_Bili",
+      "name":"🅱️┃哔娱┃合集", //拾光
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./libs/bili.js",
+      "jar": "./jar/sglt.jar"
+    },
+
 {
 			"key": "Bdys_spider",
 			"name": "🤹🏼┃哔嘀┃磁力",
