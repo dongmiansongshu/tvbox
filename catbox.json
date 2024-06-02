@@ -204,24 +204,14 @@
 		"filterable":1,
 		"jar": "./json/cili-catbox.jar"},
    {
-      "key": "csp_sp_荐片影视",
-      "name": "爬虫┃荐片影视",
+      "key": "csp_sp_荐片影视", //龙门
+      "name": "🛩️┃荐片┃龙门",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-       "jar": "http://box.iqinu.com/jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
+       "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
       "ext": "./libs/jianpian.json"
-    },
-    {
-      "key": "drpy_js_荐片影视",
-      "name": "推荐┃荐片影视",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/荐片.js"
     },
 
 	{
