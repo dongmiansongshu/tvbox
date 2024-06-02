@@ -226,6 +226,19 @@
             "filterable": 1
         },	
 
+          {
+      "key": "荐片",
+      "name": "无意云┃05.18",
+      "type": 3,
+      "api": "csp_JianPian",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api2.rinhome.com"
+    },
+
         {
       "key": "drpy_js_荐片",
       "name": "👽┃荐片┃道长",
