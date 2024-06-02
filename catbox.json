@@ -565,7 +565,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./libs/bilibili.json",
+      "ext": "https://6529.kstore.space/mitv/bilibili.json",
        "jar": "./jar/svip.jar"
     },
        {
@@ -576,7 +576,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./libs/bili.js",
+      "ext":"https://6529.kstore.space/mitv/bili.js",
       "jar": "./jar/sglt.jar"
     },
 
