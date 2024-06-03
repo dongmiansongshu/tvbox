@@ -205,7 +205,7 @@
 		"jar": "./json/cili-catbox.jar"},
    {
       "key": "csp_sp_荐片影视", //龙门
-      "name": "🦄┃荐片┃龙门",
+      "name": "🌼┃荐片┃龙门",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -355,7 +355,7 @@
     },
     {
       "key": "毛驴",
-      "name": " 🐪┃毛驴┃饭硬",
+      "name": "🐪┃毛驴┃饭硬",
       "type": 3,
       "api": "csp_MLYS",
  "jar": "./jar/fan.txt",
@@ -390,7 +390,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "👨‍🌾‍┃农民┃饭硬",
+      "name": "🌾‍┃农民┃饭硬",
       "type": 3,
       "api": "csp_Nmys",
   "jar": "./jar/fan.txt",
@@ -784,7 +784,7 @@
 
     {
       "key": "影视工厂",
-      "name": "💐┃影视工厂┃神仙",
+      "name": "💐┃工厂┃神仙",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -838,7 +838,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": " 👨‍🚒┃快看┃肥猫",
+      "name": "👨‍🚒┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
        "jar": "./jar/PandaQ240416.jar",
@@ -915,7 +915,7 @@
  
     {
       "key": "csp_Voflix",
-      "name": " 🎋┃Voflix┃肥猫",
+      "name": "🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
        "jar": "./jar/PandaQ240416.jar",
@@ -1336,7 +1336,7 @@
                 "filterable": 0},		
         {
             "key": "鑫鑫影视",
-            "name": "🦆┃鑫鑫┃影视",
+            "name": " 🍂┃鑫鑫┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1406,7 +1406,7 @@
     },
         {
             "key": "cjzy_暴风资源",
-            "name": "🌦┃暴风┃影视",
+            "name": "🌊┃暴风┃影视",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
