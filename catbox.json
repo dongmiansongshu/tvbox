@@ -950,7 +950,7 @@
   
     {
       "key": "csp_Bdys",
-      "name": "👑哔嘀资源👑",
+      "name": "👑┃哔嘀┃夜猫",
       "type": 3,"playerType":1,
       "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
       "api": "csp_Bdys",
@@ -990,7 +990,7 @@
 {"key":"csp_freeok","name":"👑┃菲克┃夜猫","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
  {
       "key": "乐视",
-      "name": "👑┃乐视采集┃夜猫",
+      "name": "👑┃乐视┃夜猫",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
@@ -1021,7 +1021,7 @@
         "其他片"
       ] 
       }, 
-      {"key":"天天","name":"👑天天影视👑","type":3,
+      {"key":"天天","name":"👑┃天天┃夜猫","type":3,
         "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
         "api":"csp_YMTTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn"},
    
