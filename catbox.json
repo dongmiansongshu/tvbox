@@ -205,7 +205,7 @@
 		"jar": "./json/cili-catbox.jar"},
    {
       "key": "csp_sp_荐片影视", //龙门
-      "name": "🌼┃荐片┃龙门",
+      "name": "🌼┃荐片┃龙门 🥇",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -390,7 +390,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "👨‍🌾┃农民┃饭硬",
+      "name": "👷┃农民┃饭硬",
       "type": 3,
       "api": "csp_Nmys",
   "jar": "./jar/fan.txt",
@@ -398,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+      "ext": "./libs/nmys.json"
     },
     {
       "key": "csp_Bttoo",
@@ -690,7 +690,7 @@
 
     {
       "key": "🔱官源｜腾讯🏅",
-      "name": "🔱┃腾讯┃黄金🏅",
+      "name": "🔱┃腾讯┃黄金",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./libs/drpy2.min.js",
@@ -698,7 +698,7 @@
     },
     {
       "key": "🔱官源｜爱奇艺🏅",
-      "name": "🔱┃爱奇┃黄金🏅",
+      "name": "🔱┃爱奇┃黄金",
       "type": 3,
       "jar": "./jar/hjys.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "api": "./libs/drpy2.min.js",
@@ -897,7 +897,7 @@
     },
     {
       "key": "乐乐",
-      "name": "🤡┃乐乐┃肥猫",
+      "name": "🐶┃乐乐┃肥猫",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
