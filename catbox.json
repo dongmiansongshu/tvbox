@@ -205,7 +205,7 @@
 		"jar": "./json/cili-catbox.jar"},
    {
       "key": "csp_sp_荐片影视", //龙门
-      "name": "🛩️┃荐片┃龙门",
+      "name": "🐞┃荐片┃龙门",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -213,7 +213,6 @@
        "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
       "ext": "./libs/jianpian.json"
     },
-
 	{
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
@@ -356,7 +355,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🦙┃毛驴┃饭硬",
+      "name": " 🐪┃毛驴┃饭硬",
       "type": 3,
       "api": "csp_MLYS",
  "jar": "./jar/fan.txt",
@@ -425,7 +424,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝┃奥特┃饭硬",
+      "name": "🌺┃奥特┃饭硬",
       "type": 3,
       "api": "csp_Auete",
   "jar": "./jar/fan.txt",
@@ -537,12 +536,12 @@
  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar",
  "ext":"http://122.51.37.23/man/py/央视片库.py"},//满佬cally1  影视仓ok catbox X 影视x
 
-{"key":"py_cctv_ys","name": "☪┃央视┃影视专用","type": 3,
+{"key":"py_cctv_ys","name": "📺┃央视┃OK影","type": 3,
 "api": "https://6529.kstore.space/mitv/py_cctv_1.py",
 "searchable": 0,"quickSearch": 0,"filterable": 0}, //拾光 影视ok
 
 { "key":"py_cctv_集合",
-      "name":"☪┃央视┃影视仓专用",//影视仓ok , catbox X 影视x
+      "name":"📺┃央视┃影视仓",//影视仓ok , catbox X 影视x
       "type":3,
       "style":{"type":"rect","ratio":1.485},
       "jar": "./jar/pg.jar",
@@ -582,7 +581,7 @@
 
 {
 			"key": "Bdys_spider",
-			"name": "🤹🏼┃哔嘀┃磁力",
+			"name": "☔┃哔嘀┃磁力",
             "jar": "./jar/pg.jar",
 			"api": "csp_Bdys01",
 			"type": 3,
@@ -684,9 +683,9 @@
 {"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 		
-{"key": "玩我哥哥","name":"🥰️┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
+{"key": "玩我哥哥","name":"😄┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
 "quickSearch":1,"filterable":1,
-"jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+"jar": "http://rihou.cc:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "ext":"./libs/玩我哥哥.json"},
 
     {
@@ -798,7 +797,7 @@
 
     {
       "key": "csp_Nkdy",
-      "name": "🏔┃耐看┃肥猫",
+      "name": "🐱┃耐看┃肥猫",
        "jar": "./jar/PandaQ240416.jar",
       "type": 3,
       "playerType": "2",
@@ -808,7 +807,7 @@
 
     {
       "key": "csp_Vidhub2",
-      "name": "🎼┃Vid┃肥猫",
+      "name": "🐱┃Vid┃肥猫",
       "type": 3,
        "jar": "./jar/PandaQ240416.jar",
       "api": "csp_Vidhub2",
@@ -819,7 +818,7 @@
 
     {
       "key": "csp_AppRZ",
-      "name": " 🕵┃忍者┃肥猫",
+      "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
        "jar": "./jar/PandaQ240416.jar",
@@ -829,7 +828,7 @@
 
     {
       "key": "csp_Auete",
-      "name": "🦝┃Aue┃肥猫",
+      "name": "🐱┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
        "jar": "./jar/PandaQ240416.jar",
