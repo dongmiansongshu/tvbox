@@ -398,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./libs/nmys.json"
+      "ext": "./libs/nongmin.js"
     },
     {
       "key": "csp_Bttoo",
