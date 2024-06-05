@@ -210,8 +210,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-       "jar": "./jar/fan.txt",
-  //     "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
+      "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
       "ext": "./libs/jianpian.json"
     },
 	{
