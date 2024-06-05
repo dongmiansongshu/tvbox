@@ -399,7 +399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./libs/nongmin.js"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
     {
       "key": "csp_Bttoo",
