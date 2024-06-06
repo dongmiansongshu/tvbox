@@ -259,7 +259,7 @@
       "ext": "./libs/哔嘀影视.json"
     },
 
-    {"key": "csp_cally","name":"💚┃Cally┃采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://150.158.91.136/xbpq/callyxbpq.json"},
+    {"key": "csp_cally","name":"💚┃Cally┃采集","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/xbpq/callyxbpq.json"},
 
 
 
