@@ -800,17 +800,17 @@
 
    {
       "key": "荐片",
-      "name": "🎬┃荐片┃┃肥猫",
+      "name": "🎬┃荐片┃肥猫",
       "api": "csp_Jianpian",
       "type": 3,
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
     },
     {
       "key": "csp_Nkdy",
       "name": "🐱┃耐看┃肥猫",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
@@ -821,7 +821,7 @@
       "key": "csp_Vidhub2",
       "name": "🐱┃Vid┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
@@ -833,7 +833,7 @@
       "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -843,7 +843,7 @@
       "name": "🐱┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -853,7 +853,7 @@
       "name": "🎅┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -876,7 +876,7 @@
       "name": "👬┃兄弟┃肥猫",
       "type": 3,
       "api": "csp_Xdys",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -886,14 +886,14 @@
       "name": "🙋┃外剧┃肥猫",
       "type": 3,
       "playerType": "1",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "api": "csp_KmeiJu"
     },
     {
       "key": "csp_Xb6v",
       "name": "🐤┃6V磁┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "api": "csp_Xb6v",
       "playerType": "2"
     },
@@ -920,7 +920,7 @@
       "name": "🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
-       "jar": "./jar/PandaQ240416.jar",
+       "jar": "./jar/PandaQ240605.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
