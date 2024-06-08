@@ -798,6 +798,15 @@
  
 //===========肥猫===========🐦==💐
 
+   {
+      "key": "荐片",
+      "name": "🎬┃荐片┃┃肥猫",
+      "api": "csp_Jianpian",
+      "type": 3,
+       "jar": "./jar/PandaQ240416.jar",
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
     {
       "key": "csp_Nkdy",
       "name": "🐱┃耐看┃肥猫",
