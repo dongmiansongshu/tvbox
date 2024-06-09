@@ -1419,7 +1419,17 @@
                 "喜剧片",
                 "战争片"
             ]
-        }
+        },
+        {
+			"key": "應用商店",
+			"name": "应用App",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/andyszou/tvbox/raw/master/market.json"
+		}
+
      //        { "key": "csp_YQKan","name": "👨‍👩‍👧‍👦┃一起┃电视","type": 3,"api": "csp_YQKan",
    //         "searchable": 1,"quickSearch": 1,"filterable": 1,
 //		    "jar": "./duo.jar;md5;5C5116C70E15343433C8480C3B448408"}
