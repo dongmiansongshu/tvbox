@@ -1424,6 +1424,7 @@
 			"key": "應用商店",
 			"name": "应用App",
 			"type": 3,
+            "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pg.jar",
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
