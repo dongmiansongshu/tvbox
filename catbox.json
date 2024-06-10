@@ -212,17 +212,17 @@
       "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
       "ext": "./libs/jianpian.json"
     },
-	{
-            "key": "js_荐片",
+
+        	{ "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
             "api": "./libs/drpy2.min.js",
-            "ext": "./js/荐片.js",
+              "ext": "./js/荐片2.js",
+         //   "ext": "./js/荐片.js",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },	
+            "filterable": 1 },	
 
         {
       "key": "drpy_js_荐片",
