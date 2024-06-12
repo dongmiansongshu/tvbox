@@ -261,6 +261,7 @@
     {
     "key": "csp_cally","name":"💚┃Cally┃采集","type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,
+    "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
      "ext": "http://150.158.91.136/xbpq/callyxbpq.json"
    // "ext":"./libs/callyxbpq.json"
     },
