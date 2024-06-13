@@ -7,7 +7,7 @@
 // https://img.n13.club/ 
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
-"spider": "./jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26", //饭太硬
+"spider": "./jar/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
 
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
