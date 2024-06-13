@@ -1,11 +1,101 @@
+ "lives": [
+    {
+      "name": "综合直播源[天霜-zh]",
+      "type": 0,
+      "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "春盈天下原版[吾爱短链]",
+      "type": 0,
+      "url": "https://s2.pub/cyitv",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "Github-V",
+      "type": 0,
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/tvbox/main/v.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "神仙原版直播",
+      "type": 0,
+      "url": "http://www.liuyunw.com:88/zb.txt",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "playerType": 1
+    },
+    {
+      "name": "范明明IPv6原版m3u",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "playerType": 1
+    },
+    {
+      "name": "范明明IPv6原版txt",
+      "type": 0,
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "原版sangni1949-Gitee",
+      "type": 0,
+      "url": "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "Github-P3P",
+      "type": 0,
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/p3p.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
 {
-"storeHouse": [
-
-{"sourceName":"💝节目-综合🍭","sourceUrl":"https://chuxinya.top/f/oDDsv/zh.txt"},
-{"sourceName":"💚节目-春盈🍭","sourceUrl":"https://chuxinya.top/f/pEGCA/chunying.txt"},
-{"sourceName":"💛节目-轮播🍭","sourceUrl":"https://chuxinya.top/f/qGPUX/lunbo.txt"},
-{"sourceName":"❤️节目-其他🍭","sourceUrl":"https://chuxinya.top/f/rJyU2/otitv.txt"},
-{"sourceName":"💜节目-动画🍭","sourceUrl":"https://chuxinya.top/f/vOqIA/donghua.txt"}
-
-]}
+      "name": "Github-晴天港澳（影视专用）",
+      "type": 0,
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/晴天mitv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+        {
+      "name": "天霜-动画",
+      "type": 0,
+      "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+            "name": "JUNDIE",
+            "type": "0",
+            "pass": true,
+            "url": "http://home.jundie.top:81/ray/tvlive.txt",
+            "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+  ]
 
