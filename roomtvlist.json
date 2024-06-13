@@ -1,3 +1,7 @@
+{
+"wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
+ 
+
  "lives": [
     {
       "name": "综合直播源[天霜-zh]",
@@ -98,4 +102,5 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
   ]
+}
 
