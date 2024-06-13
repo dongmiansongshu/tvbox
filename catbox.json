@@ -301,17 +301,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+ 
+        {
       "key": "视觉",
       "name": "👓┃视觉┃饭硬",
+	  "jar": "https://6529.kstore.space/tvbox/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
       "type": 3,
       "api": "csp_Xinsj",
-      "jar": "./jar/fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.6080yy4.com/"
+      "ext": "https://www.80yy3.com/"
     },
     {
       "key": "厂长",
