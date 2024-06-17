@@ -812,7 +812,7 @@
       "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
-       "jar": "./jar/PandaQ240605.jar",
+  //     "jar": "./jar/PandaQ240605.jar",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -1431,7 +1431,7 @@
 			"key": "應用商店",
 			"name": "📚┃应用App",
 			"type": 3,
-              "jar":"./jar/pg.jar",
+              "jar":"https://6529.kstore.space/tvbox/pg.jar",
   //          "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pg.jar",
 			"api": "csp_Market",
 			"searchable": 0,
