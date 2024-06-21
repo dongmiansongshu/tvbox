@@ -781,7 +781,7 @@
     {
       "key": "csp_FengGo",
       "name": "🐕┃疯狗┃影视",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "type": 3,
       "api": "csp_FengGo",
       "playerType": 2
@@ -789,7 +789,7 @@
      {
       "key": "比特",
       "name": "✌️️┃比特┃影视",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "type": 3,
       "api": "csp_Bttwo"
     },
@@ -798,14 +798,14 @@
       "name": "🎬┃荐片┃肥猫",
       "api": "csp_Jianpian",
       "type": 3,
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
     },
     {
       "key": "csp_Nkdy",
       "name": "🐱┃耐看┃肥猫",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
@@ -816,7 +816,7 @@
       "key": "csp_Vidhub2",
       "name": "🐱┃Vid┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
@@ -828,7 +828,7 @@
       "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
-      "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+      "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -838,7 +838,7 @@
       "name": "🐱┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -848,7 +848,7 @@
       "name": "🎅┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -857,13 +857,14 @@
     {
       "key": "FreeOK",
       "name": "️️👌┃Fre┃肥猫",
+         "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
     },
   
    {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv",
-    "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+    "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
    "searchable": 1,"quickSearch": 1,"filterable": 1},
 
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
@@ -871,7 +872,7 @@
       "key": "可可",
       "name": " 😝┃可可┃影视",
       "type": 3,
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "playerType": "2",
       "api": "csp_Keke",
       "searchable": 1,
@@ -884,7 +885,7 @@
       "name": "👬┃兄弟┃肥猫",
       "type": 3,
       "api": "csp_Xdys",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -894,21 +895,21 @@
       "name": "🙋┃外剧┃肥猫",
       "type": 3,
       "playerType": "1",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_KmeiJu"
     },
     {
       "key": "csp_Xb6v",
       "name": "🐤┃6V磁┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_Xb6v",
       "playerType": "2"
     },
     {
       "key": "乐乐",
       "name": "🐶┃乐乐┃肥猫",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -920,7 +921,7 @@
       "key": "虎虎",
       "name": "🐯┃虎虎┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
@@ -928,7 +929,7 @@
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
-       "jar": "./jar/PandaQ240616;md5;53fd0f0582cd66035dbdae77a2eadeb3.jar",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "api": "csp_SC1080",
       "searchable": 1,
       "quickSearch": 1,
@@ -940,7 +941,7 @@
       "name": "🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
-       "jar": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
