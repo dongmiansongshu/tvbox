@@ -777,19 +777,32 @@
  
 //===========肥猫===========🐦==💐
 
+    {
+      "key": "csp_FengGo",
+      "name": "🐕┃疯狗┃影视",
+      "type": 3,
+      "api": "csp_FengGo",
+      "playerType": 2
+    },
+     {
+      "key": "比特",
+      "name": "✌️️┃比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+    },
    {
       "key": "荐片",
       "name": "🎬┃荐片┃肥猫",
       "api": "csp_Jianpian",
       "type": 3,
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
     },
     {
       "key": "csp_Nkdy",
       "name": "🐱┃耐看┃肥猫",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
@@ -800,7 +813,7 @@
       "key": "csp_Vidhub2",
       "name": "🐱┃Vid┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
@@ -812,7 +825,7 @@
       "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
-  //     "jar": "./jar/PandaQ240605.jar",
+  //     "jar": "./jar/PandaQ240616.jar",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -822,7 +835,7 @@
       "name": "🐱┃Aue┃肥猫",
       "type": 3,
       "api": "csp_Auete",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -832,7 +845,7 @@
       "name": "🎅┃快看┃肥猫",
       "type": 3,
       "api": "csp_Kuaikan",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -846,16 +859,26 @@
       "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
     },
   
- //   {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
+  {
+      "key": "可可",
+      "name": " 😝┃可可┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
   {
       "key": "兄弟",
       "name": "👬┃兄弟┃肥猫",
       "type": 3,
       "api": "csp_Xdys",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -865,14 +888,14 @@
       "name": "🙋┃外剧┃肥猫",
       "type": 3,
       "playerType": "1",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "api": "csp_KmeiJu"
     },
     {
       "key": "csp_Xb6v",
       "name": "🐤┃6V磁┃肥猫",
       "type": 3,
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "api": "csp_Xb6v",
       "playerType": "2"
     },
@@ -893,13 +916,22 @@
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
+    {
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  
     {
       "key": "csp_Voflix",
       "name": "🎋┃Voflix┃肥猫",
       "type": 3,
       "api": "csp_Voflix",
-       "jar": "./jar/PandaQ240605.jar",
+       "jar": "./jar/PandaQ240616.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
