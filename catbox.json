@@ -1008,7 +1008,7 @@
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm",
-    "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3"  
+    "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3#记录片$5"  
     }},
 {"key":"csp_freeok","name":"👑┃菲克┃夜猫","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
  {
