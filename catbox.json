@@ -821,13 +821,7 @@
 	{"key":"非凡资源","name":"🎀┃非凡┃欧歌","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 //=====================夜猫子===============
-  {
-      "key": "橘子",
-      "name": "👑┃橘子┃夜猫",
-      "type": 3,
-      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
-      "api": "csp_YMApp",
-      "ext": "https://cloud.lxweb.cn/f/VeWjir/juzi.txt" } ,
+
         
    {"key":"rebo","name":"👑┃热播┃夜猫","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar","ext":"http://v.rbotv.cn"},
