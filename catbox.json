@@ -7,7 +7,7 @@
 // https://img.n13.club/ 
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
-  "spider": "./jar/PandaQ240616.jar", //肥猫
+//  "spider": "./jar/PandaQ240616.jar", //肥猫
 "spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
 
@@ -781,6 +781,7 @@
     {
       "key": "csp_FengGo",
       "name": "🐕┃疯狗┃影视",
+       "jar": "./jar/PandaQ240616.jar",
       "type": 3,
       "api": "csp_FengGo",
       "playerType": 2
@@ -788,6 +789,7 @@
      {
       "key": "比特",
       "name": "✌️️┃比特┃影视",
+       "jar": "./jar/PandaQ240616.jar",
       "type": 3,
       "api": "csp_Bttwo"
     },
@@ -826,7 +828,7 @@
       "name": " 🐱┃忍者┃肥猫",
       "type": 3,
       "playerType": "2",
-  //     "jar": "./jar/PandaQ240616.jar",
+      "jar": "./jar/PandaQ240616.jar",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -860,13 +862,16 @@
       "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
     },
   
-   {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key": "毛驴","name": "🦙┃毛驴┃肥猫","type": 3,"api": "csp_MaoLv",
+    "jar": "./jar/PandaQ240616.jar",
+   "searchable": 1,"quickSearch": 1,"filterable": 1},
 
  //   {"key": "白嫖","name": "🌅┃白嫖┃肥猫","type": 3, "api": "csp_BaiPiao","searchable": 1, "quickSearch": 1,"filterable": 1},
   {
       "key": "可可",
       "name": " 😝┃可可┃影视",
       "type": 3,
+       "jar": "./jar/PandaQ240616.jar",
       "playerType": "2",
       "api": "csp_Keke",
       "searchable": 1,
@@ -921,6 +926,7 @@
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
+       "jar": "./jar/PandaQ240616.jar",
       "api": "csp_SC1080",
       "searchable": 1,
       "quickSearch": 1,
