@@ -135,6 +135,75 @@
             "url": "http://home.jundie.top:81/ray/tvlive.txt",
             "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+        },
+        
+        { "name": "👉开心·直播在线","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt",
+        "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+    { "name": "👉春盈·天下在线","url": "http://120.24.204.74:1888/?explorer/share/file&hash=8eaa3XwtywyAg-02R9sIhwj8jhTViR46btHi7m935rp0-6R7tZscuft_UGBA2aFvmw&name=/春盈天下新ds.css",
+    "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    { "name": "👉糖意·直播在线","url": "https://gitcode.net/js283311816/ty/-/raw/master/糖意/",
+    "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    { "name": "👉D大佬.直播在线","url": "http://rihou.cc:555/gggg.nzk","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+    { "name": "👉书虫.直播在线","url": "https://d.kstore.space/download/6726/sc.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    { "name": "👉新感觉·直播在线","url": "http://27.54.236.201:88/app/live.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+ 
+    { "name": "👉SmartTV ","url": "https://4026.kstore.space/tv/SmartTV.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+    { "name": "👉中華電信","url": "https://4026.kstore.space/tv/中華電信.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" }, 
+
+    { "name": "👉港澳台·终极版","url": "https://4026.kstore.space/tv/港澳台终极版.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    { "name": "👉P2p晴天","url": "https://4026.kstore.space/tv/p2p.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    { "name": "👉aitv野火直播","url": "https://4026.kstore.space/tv/aitv.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+    { "name": "👉摸鱼儿直播·在线","url": "http://我不是.摸鱼儿.top/live.php","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+    { "name": "👉YanG•IPV6","url": "https://4026.kstore.space/tvbox/lufei/Gather_ipv6.txt",
+    "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+    {  "name": "👉酒店/每日·在线","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"},
+    {  "name": "👉范明IPV6·在线","url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+
+{ "name": "👉探探live","type": 0,"url": "http://www.lyyytv.cn/yt/zhibo/1.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+
+{ "name": "👉飞龙live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+{ "name": "👉测试live","type": 0,"url": "https://yubox.xyz/live.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+{ "name": "👉YanG•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+{ "name": "👉drang•ipv6","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+{ "name": "👉Ray•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+{ "name": "👉肥羊•斗鱼","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+{ "name": "👉肥羊•虎牙","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+
+{ "name": "👉16万•MV", "type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+"epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+    {
+      "name": "tvlive",
+      "type": 0,
+      "url": "https://gh.idayer.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "https://xhdwc.tk/xiutan.m3u"
+    }
   ]
 }
