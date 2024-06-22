@@ -89,7 +89,7 @@
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/p3p.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
 {
@@ -116,7 +116,7 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/晴天mitv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
@@ -126,7 +126,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
     {
             "name": "JUNDIE",
@@ -134,7 +134,7 @@
             "pass": true,
             "url": "http://home.jundie.top:81/ray/tvlive.txt",
             "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         },
         
         { "name": "👉开心·直播在线","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt",
