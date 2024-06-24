@@ -1352,7 +1352,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 210,
-              "ext": "./lib/采集静态1.json"
+              "ext": "./json/采集静态1.json"
      //       "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
         },
     {
