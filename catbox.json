@@ -1346,7 +1346,7 @@
             "key": "hipy_js_采集之王[合]",
             "name": "🐉┃飞龙采集┃",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
+            "api": "https://gitee.com/tvkj/fl/raw/main/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
