@@ -1341,6 +1341,18 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
+
+    {
+            "key": "hipy_js_采集之王[合]",
+            "name": "🐉┃飞龙采集┃",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 210,
+            "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
+        },
     {
             "key": "csp_SNzy",
             "name": "🐉┃索尼┃高清",
