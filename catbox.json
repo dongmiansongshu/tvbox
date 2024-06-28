@@ -1352,8 +1352,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 210,
-              "ext": "./json/采集静态.json"
-     //       "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
+       "ext": "https://gitee.com/tvkj/fl/raw/main/js/采集之王.js?type=url&params=./json/采集静态.json"
         },
     {
             "key": "csp_SNzy",
