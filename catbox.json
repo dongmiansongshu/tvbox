@@ -42,6 +42,17 @@
     { "name": "👉摸鱼直播·在线","url": "http://我不是.摸鱼儿.top/live.php","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
     { "name": "👉爱家影院·在线","url": "http://ficfac.com/box/ijia.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
     { "name": "👉欧歌·直播在线","url": "https://xn--ar1-mf3g9f.v.nxog.top/m/tv" },
+{ "name": "👉探探live","type": 0,"url": "http://www.lyyytv.cn/yt/zhibo/1.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+
+
+{ "name": "👉飞龙live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+{ "name": "👉YanG•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+{ "name": "👉drang•ipv6","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+
+{ "name": "👉Ray•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
+{ "name": "👉肥羊•斗鱼","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
+{ "name": "👉肥羊•虎牙","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
 
     {
       "name": "范明明IPv6原版m3u",
