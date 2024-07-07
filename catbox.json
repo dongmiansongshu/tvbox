@@ -504,7 +504,7 @@
         {
       "key": "视觉",
       "name": "👓┃视觉┃饭硬",
-	  "jar": "https://6529.kstore.space/tvbox/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
+	  "jar": "http://ttkx.live:55/lib/ttkx.jar",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
