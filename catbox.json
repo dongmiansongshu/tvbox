@@ -912,7 +912,7 @@
     {
       "key": "csp_FengGo",
       "name": "🐕┃疯狗┃肥猫",
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "type": 3,
       "api": "csp_FengGo",
       "playerType": 2
@@ -920,7 +920,7 @@
      {
       "key": "比特",
       "name": "✌️️┃比特┃肥猫",
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "type": 3,
       "api": "csp_Bttwo"
     },
@@ -929,7 +929,7 @@
       "name": "🎬┃荐片┃肥猫",
       "api": "csp_Jianpian",
       "type": 3,
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
     },
@@ -939,7 +939,7 @@
       "key": "可可",
       "name": " 😝┃可可┃肥猫",
       "type": 3,
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "playerType": "2",
       "api": "csp_Keke",
       "searchable": 1,
@@ -952,7 +952,7 @@
       "name": "👬┃兄弟┃肥猫",
       "type": 3,
       "api": "csp_Xdys",
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -962,7 +962,7 @@
       "key": "csp_Xb6v",
       "name": "🐤┃6V磁┃肥猫",
       "type": 3,
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "api": "csp_Xb6v",
       "playerType": "2"
     },
@@ -971,7 +971,7 @@
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃肥猫",
       "type": 3,
-       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+       "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447",
       "api": "csp_SC1080",
       "searchable": 1,
       "quickSearch": 1,
