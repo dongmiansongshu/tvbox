@@ -508,6 +508,34 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/xinshijue.php"
     },
+       {
+      "key": "T4-caiji",
+      "name": "影视-采集(T4)",
+      "jar": "./jar/t4.jar",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/caiji.php"
+    },
+        {
+      "key": "T4-剧圈",
+      "name": "影视-剧圈(T4)",
+     "jar": "./jar/t4.jar",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/juquan.php"
+    },
+       {
+      "key": "T4-黑狐",
+      "name": "影视-黑狐(T4)",
+    "jar": "./jar/t4.jar",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/heihu.php"
+    },
+       {
+      "key": "T4-Blixq",
+      "name": "B站-戏曲(T4)",
+     "jar": "./jar/t4.jar",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
+    },
     {
       "key": "厂长",
       "name": "🏭️┃厂长┃饭硬",
