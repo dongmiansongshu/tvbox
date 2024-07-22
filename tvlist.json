@@ -9,6 +9,15 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
+       {
+      "name": "综合直播源[3V-zh]",
+      "type": 0,
+      "url": "http://andysfly.3vcn.work/zh.txt?FileMd5Key=9ff83c35f67432ab16a82eb6a01f4c14",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
     {
       "name": "春盈天下原版[吾爱短链]",
       "type": 0,
