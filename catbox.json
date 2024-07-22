@@ -14,9 +14,9 @@
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	 "lives": [
     {
-      "name": "综合直播源[天霜-zh]",
+      "name": "综合直播源[凯速-zh]",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/xD2btM/zh.txt",
+      "url": "https://6529.kstore.space/mitv/zh.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
