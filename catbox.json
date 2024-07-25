@@ -13,23 +13,41 @@
 
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	 "lives": [
-    {
-      "name": "综合直播源[凯速-zh]",
+      {
+      "name": "综合直播源[3vftp-zh]",
       "type": 0,
-      "url": "https://6529.kstore.space/mitv/zh.txt",
+      "url": "http://andys3v.3vftp.cn/mitv/zh.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+       {
+      "name": "综合直播源[3V-zh]",
+      "type": 0,
+      "url": "http://andysfly.3vcn.work/mitv/zh.json",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "春盈天下原版[吾爱短链]",
+      "name": "肥羊原版4k[github]",
       "type": 0,
-      "url": "https://s2.pub/cyitv",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+	
+	{
+      "name": "APTV",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
      { "name": "👉开心·直播在线","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
  
