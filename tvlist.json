@@ -29,10 +29,10 @@
     },
 	
 	{
-      "name": "live",
+      "name": "APTV",
       "type": 0,
       "playerType": 2,
-      "url": "http://111.67.193.2:89/66",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
@@ -40,7 +40,7 @@
 	{
       "name": "（4）节目-景区",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/RoM7TO/jingqu.txt",
+      "url": "http://andys3v.3vftp.cn/mitv/jingqu.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
@@ -49,7 +49,7 @@
 	{
       "name": "（20）节目-转一",
       "type": 0,
-      "url": "https://s2.pub/zhuan1",
+      "url": "http://gg.gg/zhuan1",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
@@ -58,7 +58,7 @@
 	{
       "name": "（21）节目-转二",
       "type": 0,
-      "url": "https://s2.pub/zhuan2",
+      "url": "http://gg.gg/zhuan2",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
