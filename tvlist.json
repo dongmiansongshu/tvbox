@@ -19,9 +19,9 @@
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "春盈天下原版[吾爱短链]",
+      "name": "肥羊原版4k[github]",
       "type": 0,
-      "url": "https://s2.pub/cyitv",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
