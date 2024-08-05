@@ -8,9 +8,9 @@
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
 //  "spider": "./jar/PandaQ240616.jar", //肥猫
-"spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
+//"spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
-
+"spider": "https://6529.kstore.space/tvbox/tvkj.jar",
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	 "lives": [
       {
