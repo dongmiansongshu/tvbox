@@ -270,7 +270,15 @@
         "danmu": false
       }
     },
-
+	
+	{
+	"key": "直播转点播","name": "📺︎电视┃直播",  //天天开心
+	"type": 3,
+	"api": "https://6529.kstore.space/lib/zbzdb.js",
+	"searchable": 1,"quickSearch": 0,"playerType": 1,
+    "filterable": 0,
+    "ext": "https://6529.kstore.space/tvbox/zb.json"
+	},
     {
       "key": "哔嘀影视",
       "name": "💦┃哔嘀┃PG",
