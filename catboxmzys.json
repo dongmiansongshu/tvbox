@@ -44,6 +44,15 @@
 
 	
   "sites": [
+   {
+      "key": "酷看影视",
+      "name": "酷看┃影视",
+        "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+  },
              	{ "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
