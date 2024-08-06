@@ -402,7 +402,7 @@
       "name": "⛅️┃原创┃饭硬",
       "type": 3,
       "api": "csp_YCyz",
-  "jar": "./jar/fan.txt",
+ // "jar": "./jar/fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -413,7 +413,7 @@
       "name": "🍎┃苹果┃饭硬",
       "type": 3,
       "api": "csp_LiteApple",
- "jar": "./jar/fan.txt",
+// "jar": "./jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -457,7 +457,7 @@
     {
       "key": "厂长",
       "name": "🏭️┃厂长┃饭硬",
-      "jar": "./jar/fan.txt",
+  //    "jar": "./jar/fan.txt",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -465,8 +465,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "ext": "https://czzy.top/"
-   //   "ext": "https://www.czys.top/"
+    //   "ext": "https://czzy.top/"
+    "ext": "https://www.czys.pro/"
     },
         {
       "key": "白嫖",
