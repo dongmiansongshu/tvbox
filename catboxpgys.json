@@ -55,6 +55,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
+     {
+      "key": "酷看影视",
+      "name": "酷看┃影视",
+     "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+  },
        {
             "key": "js豆瓣",
             "name": "🎯┃豆瓣推荐┃🎯",
