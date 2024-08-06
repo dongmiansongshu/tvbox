@@ -1,13 +1,11 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
+//明珠影视TV：【catbox】
 
 {
 "wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
  "logo": "https://5b0988e595225.cdn.sohucs.com/images/20180815/1e2f7967fd4d4c91ad3217e15878a2c3.gif",
-// https://img.n13.club/ 
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
-//  "spider": "./jar/PandaQ240616.jar", //肥猫
+
 //"spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
 "spider": "https://6529.kstore.space/tvbox/tvkj.jar",
@@ -22,56 +20,7 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
-       {
-      "name": "综合直播源[3V-zh]",
-      "type": 0,
-      "url": "http://andysfly.3vcn.work/mitv/zh.json",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
-      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "肥羊原版4k[github]",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
-      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-	
-	{
-      "name": "APTV",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
-    },
-     { "name": "👉开心·直播在线","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
- 
-    { "name": "👉糖意·直播在线","url": "https://gitcode.net/js283311816/ty/-/raw/master/糖意/","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-
-    { "name": "👉D佬.直播在线","url": "http://rihou.cc:567/gggg.nzk","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-    { "name": "👉书虫.直播在线","url": "https://d.kstore.space/download/6726/sc.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-    { "name": "👉新感觉·直播在线","url": "http://27.54.236.201:256/app/live.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-    {  "name": "👉酒店/每日·在线","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"},
-    { "name": "👉摸鱼直播·在线","url": "http://我不是.摸鱼儿.top/live.php","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-    { "name": "👉爱家影院·在线","url": "http://ficfac.com/box/ijia.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-    { "name": "👉欧歌·直播在线","url": "https://xn--ar1-mf3g9f.v.nxog.top/m/tv" },
-{ "name": "👉探探live","type": 0,"url": "http://www.lyyytv.cn/yt/zhibo/1.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
-
-
-{ "name": "👉飞龙live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-
-{ "name": "👉YanG•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-{ "name": "👉drang•ipv6","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-
-{ "name": "👉Ray•综合","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
-{ "name": "👉肥羊•斗鱼","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
-{ "name": "👉肥羊•虎牙","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
-
+   
     {
       "name": "范明明IPv6原版m3u",
       "type": 0,
@@ -89,59 +38,10 @@
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "原版sangni1949-Gitee",
-      "type": 0,
-      "url": "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "Github-P3P",
-      "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/p3p.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-{
-      "name": "Github-晴天港澳（影视专用）",
-      "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/andyszou/mitv/main/晴天mitv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
-        {
-      "name": "天霜-动画",
-      "type": 0,
-      "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-            "name": "JUNDIE",
-            "type": "0",
-            "pass": true,
-            "url": "http://home.jundie.top:81/ray/tvlive.txt",
-            "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+    }
+   
   ],
 
-  //         {"name": "本地文件",
-  //          "type": "0",
-  //          "pass": true,
-  //          "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
-  //          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-  //          "logo": "https://epg.112114.xyz/logo/{name}.png"}
 	
   "sites": [
              	{ "key": "js_荐片",
@@ -149,7 +49,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
               "ext": "./js/荐片2.js",
-         //   "ext": "./js/荐片.js",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
