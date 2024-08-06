@@ -4,11 +4,9 @@
 {
 "wallpaper": "https://gitee.com/andyszou/tvbox/raw/master/tvboxbg/images/01.png",
  "logo": "https://5b0988e595225.cdn.sohucs.com/images/20180815/1e2f7967fd4d4c91ad3217e15878a2c3.gif",
-// https://img.n13.club/ 
 "spider":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar", //夜猫子已备份
 "spider": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",  //荷城已备份
-//  "spider": "./jar/PandaQ240616.jar", //肥猫
-//"spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
+
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
 "spider": "https://6529.kstore.space/tvbox/tvkj.jar",
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
