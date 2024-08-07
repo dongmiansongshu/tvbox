@@ -745,23 +745,7 @@
       "filterable": 1,
       "ext":"https://6529.kstore.space/mitv/bili.js",
       "jar": "./jar/sglt.jar"
-    },
-
-        {
-			"key": "應用商店",
-			"name": "🛒┃影视应用┃App",
-			"type": 3,
-              "jar":"https://6529.kstore.space/tvbox/pg.jar",
-  //          "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pg.jar",
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/andyszou/tvbox/raw/master/market.json"
-		}
-
-     //        { "key": "csp_YQKan","name": "👨‍👩‍👧‍👦┃一起┃电视","type": 3,"api": "csp_YQKan",
-   //         "searchable": 1,"quickSearch": 1,"filterable": 1,
-//		    "jar": "./duo.jar;md5;5C5116C70E15343433C8480C3B448408"}
+    }
 
  ],
   
