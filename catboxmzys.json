@@ -20,7 +20,6 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
-   
     {
       "name": "范明明IPv6原版m3u",
       "type": 0,
@@ -39,10 +38,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     }
-   
   ],
-
-	
   "sites": [
   
              	{ "key": "js_荐片",
@@ -63,7 +59,6 @@
       "searchable": 1,
       "changeable": 1
   },
-
        {
             "key": "js豆瓣",
             "name": "🎯┃豆瓣推荐┃🎯",
@@ -75,7 +70,6 @@
             "ext": "./libs/douban.js"
         },
     {
-
   "key": "csp_XBPQ_6V",
   "name": "🐾┃4K磁力┃专享",
   "type": 3,
@@ -94,7 +88,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "jar": "./json/cili-catbox.jar"},
-
     {
     "key": "csp_New6v",
 		"name": "🐾┃新6V┃专享",
@@ -106,7 +99,6 @@
 		"ext":"http://www.xb6v.com",
 		"jar": "./json/cili-catbox.jar"
     },
-		
     {"key":"csp_SeedHub",
 		"name":"🐾┃SeedHub┃专享",
 		"type":3,
@@ -116,7 +108,6 @@
 		"quickSearch":1,
 		"filterable":1,
 		"jar": "./json/cili-catbox.jar"},
-		
     {"key":"csp_MeijuTT",
 		"name":"🐾┃美剧天堂┃专享",
 		"type":3,
@@ -126,7 +117,6 @@
 		"quickSearch":1,
 		"filterable":1,
 		"jar": "./json/cili-catbox.jar"},
-
    {
       "key": "csp_sp_荐片影视", //龙门
       "name": "🌻┃荐片┃龙门🌈",
@@ -137,8 +127,6 @@
       "jar": "./jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b",
       "ext": "./libs/jianpian.json"
     },
-
- 
         {
       "key": "drpy_js_荐片",
       "name": "👽┃荐片┃道长",
@@ -146,7 +134,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
-
     {
       "jar": "./jar/danmu.jar",
       "key": "csp_OK荐片",
@@ -161,8 +148,6 @@
         "danmu": false
       }
     },
-
-
     {
     "key": "csp_cally","name":"💚┃Cally┃采集","type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,
@@ -170,7 +155,6 @@
      "ext": "http://150.158.91.136/xbpq/callyxbpq.json"
    // "ext":"./libs/callyxbpq.json"
     },
-
     {
       "key": "骚火",
       "name": "🏅┃骚火┃影视",
@@ -196,7 +180,6 @@
       "jar": "https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"
     },
 
-    
     //=====================饭太硬=====🚛==🦐==🤹‍♂️==🐶🐷🤹🏼🦚=🛒影视应用商店====
      {
       "key": "酷看",
@@ -209,7 +192,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "苹果",
       "name": "🍎┃苹果┃饭硬",
@@ -220,8 +202,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
- 
- 
        {
       "key": "T4-caiji",
       "name": "🅿┃采集┃T4",
@@ -229,7 +209,6 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/caiji.php"
     },
-  
        {
       "key": "T4-黑狐",
       "name": "🅿┃黑狐┃T4",
@@ -258,8 +237,6 @@
     //   "ext": "https://czzy.top/"
     "ext": "https://www.czys.pro/"
     },
- 
-
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃饭硬",
@@ -272,7 +249,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
- 
     {
       "key": "萌米",
       "name": "🍠┃萌米┃饭硬",
@@ -283,8 +259,6 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-
-
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃饭硬",
@@ -295,7 +269,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
- 
     {
       "key": "Auete",
       "name": "🌺┃奥特┃饭硬",
@@ -329,7 +302,6 @@
       "filterable": 1,
       "ext": "./libs/星辰影视.json"
     },
- 
     {
       "key": "央视经典",
       "name": "📺┃央视┃经典",//荷城 影视仓ok, catbox ok，影视ok
@@ -340,11 +312,9 @@
       "filterable": 1,
       "ext": "./libs/哔哩经典.json"
     },
-
   {"key":"大米星球","name":"🌾┃大米┃圆周","type":3,"api":"./libs/drpy2.min.js",
   "searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./libs/大米星球.js"},
-
 {
       "key": "csp_XYQHiker_电影牛影院",
       "name": "📚┃影牛┃拾光",
@@ -362,7 +332,6 @@
 
 {"key":"晴天","name":"📀┃晴天┃圆周","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
-
     {
       "key": "🔱官源｜腾讯🏅",
       "name": "🔱┃腾讯┃黄金",
@@ -379,7 +348,6 @@
       "api": "./libs/drpy2.min.js",
       "ext": "./js/奇艺视频.js"
     },
-    
     {
       "key": "drpy_js_优酷🏅",
       "name": "🔱┃优酷┃黄金",
@@ -388,7 +356,6 @@
       "api": "./libs/drpy2.min.js",
    "ext": "https://d.kstore.space/download/6529/mitv/youku.js" //我的
     },
-
     {
       "key": "🔱官源｜芒果🏅",
       "name": "🔱┃芒果┃黄金",
@@ -416,7 +383,6 @@
       "filterable": 1,
       "changeable": 0
     },
- 
         {
       "key": "神仙影视",
       "name": "💐┃自营┃神仙",
@@ -431,7 +397,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
       }
     },
-
     {
       "key": "影视工厂",
       "name": "💐┃工厂┃神仙",
@@ -454,8 +419,6 @@
 	{"key":"非凡资源","name":"🎀┃非凡┃欧歌","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 //=====================夜猫子===============
-
-        
    {"key":"rebo","name":"👑┃热播┃夜猫","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
      "jar":"https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar","ext":"http://v.rbotv.cn"},
     
@@ -487,7 +450,6 @@
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm",
     "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3#记录片$5"  
     }},
-
 
 	{"key":"机器人","name":"👑┃机器人┃夜猫","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},	
 
@@ -533,8 +495,6 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
-  
-
  {
       "key": "酷",
       "name": "👑┃爱酷┃夜猫",
@@ -568,7 +528,6 @@
         "其他片"
       ] 
       }, 		
-
 //=====================飞龙影视=天微===============
 
     {
@@ -629,8 +588,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-
-  
     {
             "key": "csp_SNzy",
             "name": "🐉┃索尼┃高清",
