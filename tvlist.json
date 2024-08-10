@@ -27,7 +27,16 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
-	
+  {
+      "name": "sossag",
+      "type": 0,
+      "url": "https://gitee.com/sossag/02/raw/master/xxqg.st",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
+
 	{
       "name": "APTV",
       "type": 0,
