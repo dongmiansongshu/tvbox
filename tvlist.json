@@ -18,12 +18,7 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
-    //直播源1
-    {
-      "name": "岳婵 m3u",
-      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
-    },
-
+  
 //直播源2
     {
       "name": "苏萱 m3u",
