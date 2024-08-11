@@ -10,8 +10,8 @@
 //  "spider": "./jar/PandaQ240616.jar", //肥猫
 //"spider": "./jar/fan.txt;md5;b4518597b341123213f6208fbfab7c1b", //饭太硬
 "spider": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",//黄金影视已备份
-//"spider": "https://6529.kstore.space/tvbox/tvkj.jar",
- "spider": "http://47.99.102.252/jar/0805.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+"spider": "https://6529.kstore.space/tvbox/tvkj.jar",
+
  //    "comment": "多路直播配置只有影迷和蜂蜜影视支持",
 	 "lives": [
       {
@@ -507,7 +507,7 @@
       "name": "😎┃酷看┃饭硬",
       "type": 3,
       "api": "csp_Kkys",
- "jar": "./jar/fan.txt",
+// "jar": "./jar/fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -515,7 +515,8 @@
     },
      {
       "key": "酷看影视",
-      "name": "🏅酷看",
+      "name": "🏅┃酷看┃星辰",
+       "jar": "http://47.99.102.252/jar/0805.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
       "type": 3,
       "api": "csp_Wexkukantv"
     },
