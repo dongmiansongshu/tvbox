@@ -542,13 +542,6 @@
       "changeable": 1
     },
  
-     {
-      "key": "T4-xinshijue",
-     "name": " 🅿┃视觉┃T4",
-	  "jar": "./jar/t4.jar",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/xinshijue.php"
-    },
        {
       "key": "T4-caiji",
       "name": "🅿┃采集┃T4",
@@ -556,13 +549,7 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/caiji.php"
     },
-        {
-      "key": "T4-剧圈",
-      "name": "🅿┃剧圈┃T4",
-     "jar": "./jar/t4.jar",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/juquan.php"
-    },
+
        {
       "key": "T4-黑狐",
       "name": "🅿┃黑狐┃T4",
@@ -589,12 +576,12 @@
       "quickSearch": 1,
       "changeable": 1,
        "ext": "https://www.czys.pro/"
-   //   "ext": "https://www.czys.top/"
     },
  
     {
       "key": "77",
       "name": "👒┃七七┃饭硬",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723252693789/fan.txt;md5;67d1780ee22d022e0551fb8de5db17b6",
       "type": 3,
       "api": "csp_Kunyu77",
       "timeout": 15,
@@ -608,7 +595,7 @@
       "name": "🍄┃低端┃饭硬",
       "type": 3,
       "api": "csp_Ddrk",
-//  "jar": "./jar/fan.txt",
+ "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723252693789/fan.txt;md5;67d1780ee22d022e0551fb8de5db17b6",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -626,28 +613,8 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "毛驴",
-      "name": "🐪┃毛驴┃饭硬",
-      "type": 3,
-      "api": "csp_MLYS",
- //"jar": "./jar/fan.txt",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "萌米",
-      "name": "🍠┃萌米┃饭硬",
-      "type": 3,
-      "api": "csp_AppTT",
- // "jar": "./jar/fan.txt",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+ 
+ 
     {
       "key": "zxzj",
       "name": "🍊┃在线┃饭硬",
@@ -661,18 +628,7 @@
       "ext": "https://www.zxzjhd.com/"
     },
 
-    {
-      "key": "csp_Nmys",
-      "name": "👷┃农民┃饭硬",
-      "type": 3,
-      "api": "csp_Nmys",
- // "jar": "./jar/fan.txt",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-    },
+
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃饭硬",
