@@ -513,6 +513,12 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "酷看影视",
+      "name": "🏅酷看",
+      "type": 3,
+      "api": "csp_Wexkukantv"
+    },
     {
       "key": "原创",
       "name": "⛅️┃原创┃饭硬",
