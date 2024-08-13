@@ -41,7 +41,7 @@
   ],
   "sites": [
   
-             	{ "key": "js_荐片",
+        { "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
             "api": "./libs/drpy2.min.js",
@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1 },	
-                 {
+   {
       "key": "酷看",
       "name": "😎┃酷看┃饭硬",
       "type": 3,
@@ -62,7 +62,7 @@
       "changeable": 1
     },
 
-             {
+    {
       "key": "酷看影视",
       "name": "🏅┃酷看┃星辰",
      "jar": "https://6529.kstore.space/tvbox/0805.jar",
