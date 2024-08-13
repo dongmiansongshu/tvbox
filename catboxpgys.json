@@ -40,6 +40,16 @@
     }
   ],
   "sites": [
+          {
+      "key": "苹果",
+      "name": "🍎┃苹果┃饭硬",
+      "type": 3,
+      "api": "csp_LiteApple",
+// "jar": "./jar/fan.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
       {
       "key": "酷看",
       "name": "😎┃酷看┃饭硬",
@@ -51,16 +61,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "苹果",
-      "name": "🍎┃苹果┃饭硬",
-      "type": 3,
-      "api": "csp_LiteApple",
-// "jar": "./jar/fan.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
              	{ "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
             "type": 3,
@@ -70,15 +71,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1 },	
-             {
-      "key": "酷看影视",
-      "name": "👷┃酷看┃影视",
-     "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
-      "type": 3,
-      "api": "csp_Wexkukantv",
-      "searchable": 1,
-      "changeable": 1
-  },
+  
        {
             "key": "js豆瓣",
             "name": "🎯┃豆瓣推荐┃🎯",
