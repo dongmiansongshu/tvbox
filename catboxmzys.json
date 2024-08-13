@@ -50,10 +50,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1 },	
+                 {
+      "key": "酷看",
+      "name": "😎┃酷看┃饭硬",
+      "type": 3,
+      "api": "csp_Kkys",
+// "jar": "./jar/fan.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "酷看影视",
+      "name": "🏅┃酷看┃星辰",
+       "jar": "http://47.99.102.252/jar/0805.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "type": 3,
+      "api": "csp_Wexkukantv"
+    },
              {
       "key": "酷看影视",
       "name": "👷┃酷看┃影视",
-     "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+     "jar": "http://47.99.102.252/jar/0805.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
       "type": 3,
       "api": "csp_Wexkukantv",
       "searchable": 1,
