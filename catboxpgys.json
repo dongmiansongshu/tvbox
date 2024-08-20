@@ -18,7 +18,7 @@
       "searchable": 1,
       "changeable": 1
   },
-    
+
 {"key":"荐片","name":"👽荐片┃开心","type":3,
 	"jar": "http://ttkx.live:55/lib/ttkx.jar",
 	"api":"http://ttkx.live:55/lib/drpy2.min.js",
