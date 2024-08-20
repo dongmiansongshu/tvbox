@@ -1,0 +1,291 @@
+{
+//"spider": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
+"spider": "https://6529.kstore.space/tvbox/tvkj.jar",
+  
+  "sites": [
+ 
+  	{"key":"csp_JianPian","name":"🎦荐片┃13507172098",
+	"type":3,"api":"csp_JianPian","playerType":1,
+	"searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"http://112.124.0.131:20000"},
+
+	{
+      "key": "酷看影视", //星辰
+      "name": "🏅酷看┃关注微信",
+     "jar": "https://6529.kstore.space/tvbox/0805.jar",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+  },
+    
+{"key":"荐片","name":"👽荐片┃开心","type":3,
+	"jar": "http://ttkx.live:55/lib/ttkx.jar",
+	"api":"http://ttkx.live:55/lib/drpy2.min.js",
+	"ext":"http://ttkx.live:55/lib/jianpian.js"},
+	
+	{
+      "key": "酷看",
+      "name": "😎酷看┃饭硬",
+      "type": 3,
+      "api": "csp_Kkys",
+// "jar": "./jar/fan.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{"key":"csp_Ikanbot","name": "🦋爱看┃影视","type": 3,"api": "csp_Ikanbot","searchable": 1,
+"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
+
+{"key":"csp_Bdys","name":"🍓缘觉┃影视","type":3,"api":"csp_Bdys","searchable":1,
+"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
+  
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+     {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	
+	{
+	"key": "直播转点播","name": "📺︎电视┃直播",  //天天开心
+	"type": 3,
+	"api": "https://6529.kstore.space/lib/zbzdb.js",
+	"searchable": 1,"quickSearch": 0,"playerType": 1,
+    "filterable": 0,
+    "ext": "https://6529.kstore.space/tvbox/zb.json"
+	},
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	   {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723907381379/fan.txt;md5;0b3dc1efac967b26e4ef00336795892c",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723907381379/fan.txt;md5;0b3dc1efac967b26e4ef00336795892c",
+      "api": "csp_Djtt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "Lib",
+      "name": "🌟立播┃不卡",
+      "type": 3,
+      "api": "csp_Libvio",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "明珠通讯提醒您",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+   {
+      "key": "cc2",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "logo": "https://5b0988e595225.cdn.sohucs.com/images/20180815/1e2f7967fd4d4c91ad3217e15878a2c3.gif",
+  "lives": [
+ {
+      "name": "直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://6529.kstore.space/tvbox/sj-live.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
