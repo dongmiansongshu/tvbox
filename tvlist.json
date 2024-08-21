@@ -32,19 +32,6 @@
       "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt"
     },
   
-//直播源2
-    {
-      "name": "苏萱 m3u",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
-    },
-
-
-
-//直播源4
-    {
-      "name": "云静 M3U",
-      "url": "https://gitee.com/yunjinger/jing/raw/master/ipv6.m3u"
-    },
 
 //直播源5
     {
