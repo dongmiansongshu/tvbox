@@ -31,18 +31,7 @@
       "name": "兰姐",
       "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt"
     },
-  
-
-//直播源5
-    {
-      "name": "mdlive Txt",
-      "type": 0,
-      "url": "http://router.bopop.buzz:9999/new/mdlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://raw.githubusercontent.com/gnodgl/IPTV/master/EPG.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+ 
 
 //直播源6
     {
