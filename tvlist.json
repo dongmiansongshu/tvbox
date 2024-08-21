@@ -39,17 +39,6 @@
       "url": "https://raw.githubusercontent.com/gnodgl/IPTV/master/IPTV.m3u"
     },
 
-
-//直播源9
-   {
-      "name": "bopop Txt",
-      "type": 0,
-      "url": "http://router.bopop.buzz:9999/new/mdlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
     {
       "name": "肥羊原版4k[github]",
       "type": 0,
@@ -69,14 +58,6 @@
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
 
-	{
-      "name": "APTV",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
-    },
 	
 	{
       "name": "（4）节目-景区",
@@ -115,15 +96,7 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
-    {
-      "name": "神仙原版直播",
-      "type": 0,
-      "url": "http://www.liuyunw.com:88/zb.txt",
-      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-      "playerType": 1
-    },
+ 
     {
       "name": "范明明IPv6原版m3u",
       "type": 0,
@@ -172,7 +145,7 @@
         {
       "name": "（6）节目-动画",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
+      "url": "http://andys3v.3vftp.cn/mitv/donghua.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
@@ -189,9 +162,6 @@
         
         { "name": "👉开心·直播在线","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt",
         "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
-
-    { "name": "👉春盈·天下在线","url": "http://120.24.204.74:1888/?explorer/share/file&hash=8eaa3XwtywyAg-02R9sIhwj8jhTViR46btHi7m935rp0-6R7tZscuft_UGBA2aFvmw&name=/春盈天下新ds.css",
-    "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
 
     { "name": "👉糖意·直播在线","url": "https://gitcode.net/js283311816/ty/-/raw/master/糖意/",
     "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}" },
