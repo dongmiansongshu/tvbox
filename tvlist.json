@@ -40,18 +40,6 @@
     },
 
 
-//直播源7
-    {
-      "name": "运输车 Txt",
-      "type": 0,
-      "url": "https://weixine.net//tv/ysclive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://raw.githubusercontent.com/gnodgl/IPTV/master/EPG.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-
-
 //直播源9
    {
       "name": "bopop Txt",
