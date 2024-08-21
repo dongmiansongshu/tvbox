@@ -28,8 +28,8 @@
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
       {
-      "name": "tv",
-      "url": "http://kv.netsite.cc/tvlive"
+      "name": "易看",
+      "url": "http://117.72.68.25:9230/latest.txt"
     },
  
 
