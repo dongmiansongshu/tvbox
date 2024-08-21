@@ -18,6 +18,15 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
+        {
+      "name": "直播源[手机内置]",
+      "type": 0,
+      "url": "https://6529.kstore.space/tvbox/sj-live.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
+    },
   
 //直播源2
     {
