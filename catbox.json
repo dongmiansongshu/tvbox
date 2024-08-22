@@ -234,6 +234,17 @@
 
             {"key":"csp_七月","name":"🅱️┃七月┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/yunjinger/tv/raw/master/libs/jar/HCCX.jar",
             "ext":"https://gitee.com/yunjinger/tv/raw/master/libs/hccx/七月影视.json"},
+              {
+      "key": "干饭影视",
+      "name": "干饭影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "西夏祝您观影愉快",
+        "分类url": "https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$20#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
    {
       "key": "csp_sp_荐片影视", //龙门
       "name": "🌻┃荐片┃龙门🌈",
