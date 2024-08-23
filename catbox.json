@@ -245,6 +245,109 @@
         "分类": "短剧$20#电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
+        {
+      "key": "电影盒子",
+      "name": "电影盒子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "线路数组": "page-header\">&&</div>",
+        "播放数组": "list-unstyled row text-center ff-playurl-line ff-playurl\"&&</ul>",
+        "分类url": "http://m.tv7box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0",
+        "分类": "电视剧$2#电影$1#动漫$3#综艺$4"
+      }
+    },
+        {
+      "key": "奈飞影视",
+      "name": "奈飞影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://yanaifei.tv/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "奈飞中文",
+      "name": "奈飞中文",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.netfly.tv/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+       {
+      "key": "快剧影视",
+      "name": "快剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://tv.kuaijuwu.net/{cateId}/index{catePg}.html[https://tv.kuaijuwu.net/{cateId}/]",
+        "分类": "大陆剧$dalu#香港剧$tvb#台湾剧$taiwan#韩剧$hanju#日剧$riju#美剧$meiju"
+      }
+    },
+       {
+      "key": "56影视",
+      "name": "56影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://luyu56.com/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&year={year}",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+       {
+      "key": "四个圈",
+      "name": "四个圈",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+     {
+      "key": "量子影视",
+      "name": "量子影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "video-info-item video-info-content vod_content\">&&</div>",
+        "分类url": "http://www.lzizy9.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "国产剧$13#电视剧$2#电影$1#综艺$4#动漫$3#伦理片$21"
+      }
+    },
+     {
+      "key": "热播库",
+      "name": "热播库",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": {
+        "主页url": "https://rebozj.pro",
+        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
+        "搜索模式": "1",
+        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
+        "线路数组": "<h4 class=\"title&&/h4>",
+        "线路标题": ">&&<",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "影片类型": "类型：&&</p>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "display: none;\">&&</span>",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
+        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
+        "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
+      }
+    },
    {
       "key": "csp_sp_荐片影视", //龙门
       "name": "🌻┃荐片┃龙门🌈",
