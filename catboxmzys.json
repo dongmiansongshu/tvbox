@@ -8,7 +8,7 @@
 	"type":3,"api":"csp_JianPian","playerType":1,
 	"searchable":1,"quickSearch":1,"filterable":1,
 	"ext":"http://112.124.0.131:20000"},
-
+	
 	{
       "key": "酷看影视", //星辰
       "name": "🏅酷看┃关注微信",
@@ -215,6 +215,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	
+	//===========开心============
+{"key":"农民影视","name":"🎦农民┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/nongmin.json"},
+{"key":"热播之家","name":"🎦热播┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/rebozj.json"},
+{"key":"csp_xBPQ_疯狗","name":"🎦疯狗┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/fgys.json"},
+{"key":"csp_xBPQ_奇优","name":"🎦奇优┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/qiyou.json"},
+{"key": "VIP影视","name": "🎦VIP┃开心","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ttkx.live:55/lib/VIPyingshi.json"},
+{"key": "晨光电影","name": "🎦晨光┃开心","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},
+
     {
       "key": "cc",
       "name": "明珠通讯提醒您",
@@ -278,7 +287,7 @@
       ]
     }
   ],
-  "logo": "https://5b0988e595225.cdn.sohucs.com/images/20180815/1e2f7967fd4d4c91ad3217e15878a2c3.gif",
+  "logo": "https://6529.kstore.space/tvbox/斋藤飞鸟.gif",
   "lives": [
  {
       "name": "直播",
