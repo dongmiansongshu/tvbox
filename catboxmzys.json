@@ -11,15 +11,16 @@
 	
 	{
       "key": "酷看影视", //星辰
-      "name": "🏅酷看┃关注微信",
+      "name": "🏅酷看┃请关注微信",
      "jar": "https://6529.kstore.space/tvbox/0805.jar",
       "type": 3,
       "api": "csp_Wexkukantv",
       "searchable": 1,
       "changeable": 1
   },
+    
 {
-	"key":"荐片","name":"👽荐片┃开心","type":3,
+	"key":"荐片","name":"👽荐片┃不定期更新","type":3,
 	"jar": "https://6529.kstore.space/lib/ttkx.jar",
 	"api":"https://6529.kstore.space/lib/drpy2.min.js",
 	"ext":"https://6529.kstore.space/lib/jianpian.js"
