@@ -119,9 +119,9 @@
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "天霜-动画",
+      "name": "3vftp-动画",
       "type": 0,
-      "url": "https://cloud.lxweb.cn/f/zDR8fz/donghua.txt",
+      "url": "http://andys3v.3vftp.cn/mitv/donghua.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
@@ -236,7 +236,7 @@
             "ext":"https://gitee.com/yunjinger/tv/raw/master/libs/hccx/七月影视.json"},
               {
       "key": "干饭影视",
-      "name": "干饭影视",
+      "name": "💚┃干饭┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -247,7 +247,7 @@
     },
         {
       "key": "电影盒子",
-      "name": "电影盒子",
+      "name": "💚┃盒子┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -259,7 +259,7 @@
     },
         {
       "key": "奈飞影视",
-      "name": "奈飞影视",
+      "name": "💚┃奈飞┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -269,7 +269,7 @@
     },
     {
       "key": "奈飞中文",
-      "name": "奈飞中文",
+      "name": "💚┃奈中┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -279,7 +279,7 @@
     },
        {
       "key": "快剧影视",
-      "name": "快剧影视",
+      "name": "💚┃快剧┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -289,7 +289,7 @@
     },
        {
       "key": "56影视",
-      "name": "56影视",
+      "name": "💚┃五六┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -299,7 +299,7 @@
     },
        {
       "key": "四个圈",
-      "name": "四个圈",
+      "name": "💚┃四圈┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -309,7 +309,7 @@
     },
      {
       "key": "量子影视",
-      "name": "量子影视",
+      "name": "💚┃量子┃采集",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -320,7 +320,7 @@
     },
      {
       "key": "热播库",
-      "name": "热播库",
+      "name": "💚┃热播┃采集",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -377,9 +377,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
-{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian",
-"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
+
     {
       "jar": "./jar/danmu.jar",
       "key": "csp_OK荐片",
@@ -1106,12 +1104,12 @@
       "filterable": 1
     },
  	//===========开心============
-{"key":"农民影视","name":"🎦农民┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/nongmin.json"},
-{"key":"热播之家","name":"🎦热播┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/rebozj.json"},
-{"key":"csp_xBPQ_疯狗","name":"🎦疯狗┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/fgys.json"},
-{"key":"csp_xBPQ_奇优","name":"🎦奇优┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/qiyou.json"},
-{"key": "VIP影视","name": "🎦VIP┃开心","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ttkx.live:55/lib/VIPyingshi.json"},
-{"key": "晨光电影","name": "🎦晨光┃开心","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},
+{"key":"农民影视","name":"🎦┃农民┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/nongmin.json"},
+{"key":"热播之家","name":"🎦┃热播┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/rebozj.json"},
+{"key":"csp_xBPQ_疯狗","name":"🎦┃疯狗┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/fgys.json"},
+{"key":"csp_xBPQ_奇优","name":"🎦┃奇优┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/qiyou.json"},
+{"key": "VIP影视","name": "🎦┃VIP┃开心","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ttkx.live:55/lib/VIPyingshi.json"},
+{"key": "晨光电影","name": "🎦┃晨光┃开心","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
 //===========欧歌=============
 
