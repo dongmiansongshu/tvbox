@@ -19,11 +19,10 @@
       "changeable": 1
   },
     
-{
+ {
 	"key":"荐片","name":"👽荐片┃不定期更新","type":3,
-	"jar": "https://6529.kstore.space/lib/ttkx.jar",
-	"api":"https://6529.kstore.space/lib/drpy2.min.js",
-	"ext":"https://6529.kstore.space/lib/jianpian.js"
+	"api":"http://ttkx.live:55/lib/drpy2.min.js",
+	"ext":"http://ttkx.live:55/lib/jianpian.js"
    },
 
 //===========以上为TV版，添加豆瓣，下面相同=====================
