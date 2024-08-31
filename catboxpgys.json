@@ -109,7 +109,7 @@
 	   {
       "key": "文采",
       "name": "💮文采┃秒播",
-	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723907381379/fan.txt;md5;0b3dc1efac967b26e4ef00336795892c",
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725092039061/fan.txt;md5;cdee73045927fcb02b709ae63292cfd7",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -121,7 +121,7 @@
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
-	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723907381379/fan.txt;md5;0b3dc1efac967b26e4ef00336795892c",
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725092039061/fan.txt;md5;cdee73045927fcb02b709ae63292cfd7",
       "api": "csp_Djtt",
       "searchable": 1,
       "quickSearch": 1,
@@ -137,16 +137,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃外剧",
+      {
+      "key": "达达龟",
+      "name": "🐢达龟┃肥猫",
+	   "jar": "http://js.xn--z7x900a.com/PandaQ240824.jar;md5;8ba127f0a52c1a7cfc2185cc4f1392ba",
       "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
+      "api": "csp_Dadag",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "filterable": 1
     },
     {
       "key": "热播",
