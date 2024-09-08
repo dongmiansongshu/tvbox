@@ -348,6 +348,36 @@
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
     },
+     {
+      "key": "Biliych",
+      "name": "🅱繁华┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+    },
+
+  {
+      "key": "MTV",
+      "name": "🎧繁华┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+
    {
       "key": "csp_sp_荐片影视", //龙门
       "name": "🌻┃荐片┃龙门",
