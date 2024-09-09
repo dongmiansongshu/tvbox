@@ -350,7 +350,7 @@
     },
      {
       "key": "Biliych",
-      "name": "🅱繁华┃演唱会",
+      "name": "🅱┃繁华┃演唱会",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -365,7 +365,7 @@
 
   {
       "key": "MTV",
-      "name": "🎧繁华┃MV",
+      "name": "🎧┃繁华┃MV",
       "type": 3,
       "api": "csp_Bili",
       "style": {
