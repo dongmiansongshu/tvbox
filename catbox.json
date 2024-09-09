@@ -422,6 +422,10 @@
         "danmu": false
       }
     },
+    	{"key":"荐片","name":"💡荐片┃欧歌","type":3, //欧歌
+	"jar":"https://6529.kstore.space/tvbox/ogjar.php",
+	"api":"csp_JianPian","playerType":1,"searchable":1,
+	"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 	
 	{
 	"key": "直播转点播","name": "📺︎┃电视┃直播",  //天天开心
@@ -1080,16 +1084,6 @@
       "type": 3,
       "api": "csp_Bttwo"
     },
-   {
-      "key": "荐片",
-      "name": "🎬┃荐片┃肥猫",
-      "api": "csp_Jianpian",
-      "type": 3,
-       "jar": "http://js.xn--z7x900a.com/PandaQ240824.jar;md5;8ba127f0a52c1a7cfc2185cc4f1392ba",
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },
-
 
   {
       "key": "可可",
