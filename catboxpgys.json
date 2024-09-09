@@ -18,7 +18,7 @@
 	"api":"http://ttkx.live:55/lib/drpy2.min.js",
 	"ext":"http://ttkx.live:55/lib/jianpian.js"
    },
-
+   
 //===========以上为TV版，未添加豆瓣，下面相同=====================
 
 	{
@@ -126,7 +126,8 @@
     },
     {
       "key": "低端",
-      "name": "⏮️低端┃二维",//fty二维码
+      "name": "⏮️低端┃喵影",
+	  "jar":"https://6529.kstore.space/jar/meow.php",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -138,7 +139,8 @@
  "type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "热播",
-      "name": "📺热播┃二维",//fty二维码
+      "name": "📺热播┃喵影",
+	  "jar":"https://6529.kstore.space/jar/meow.php",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -205,6 +207,18 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	
+	 {
+      "key": "sxys",
+      "name": "🤓师兄┃喵影",
+	  "jar":"https://6529.kstore.space/jar/meow.php",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
+    },
 
 //===========欧歌============
 {"key":"大米星球","name":"💡大米┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
@@ -214,10 +228,10 @@
 {"key":"疯狗影视","name":"💡疯狗┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
 "type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
 //短剧
-{"key":"良品短剧","name":"🐞良品┃短剧","jar":"https://6529.kstore.space/tvbox/ogjar.php",
-"type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},    
 {"key":"星芽短剧","name":"🐞星芽┃短剧","jar":"https://6529.kstore.space/tvbox/ogjar.php",
 "type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"良品短剧","name":"🐞良品┃短剧","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},    
 
 //===========开心============
 {"key":"农民影视","name":"🎦农民┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/nongmin.json"},
