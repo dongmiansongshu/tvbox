@@ -3,29 +3,23 @@
 "spider": "https://6529.kstore.space/tvbox/tvkj.jar",
   
   "sites": [
- 
-  	{"key":"csp_JianPian","name":"🎦荐片┃13507172098",
-	"type":3,"api":"csp_JianPian","playerType":1,
-	"searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"http://112.124.0.131:20000"},
+  
+	{"key":"荐片","name":"💡荐片┃13507172098","type":3, //欧歌
+	"jar":"https://6529.kstore.space/tvbox/ogjar.php",
+	"api":"csp_JianPian","playerType":1,"searchable":1,
+	"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 	
-	{
-      "key": "酷看影视", //星辰
-      "name": "🏅酷看┃请关注微信",
-     "jar": "https://6529.kstore.space/tvbox/0805.jar",
-      "type": 3,
-      "api": "csp_Wexkukantv",
-      "searchable": 1,
-      "changeable": 1
-  },
-    
- {
-	"key":"荐片","name":"👽荐片┃不定期更新","type":3,
+	{"key": "苹果","name": "🍎苹果┃请关注微信",//欧歌
+	  "jar":"https://6529.kstore.space/tvbox/ogjar.php",
+      "type": 3,"api": "csp_LiteApple","searchable": 1, "quickSearch": 1,"changeable": 1},
+
+  {
+	"key":"jianpian","name":"👽荐片┃不定期更新","type":3,
 	"api":"http://ttkx.live:55/lib/drpy2.min.js",
 	"ext":"http://ttkx.live:55/lib/jianpian.js"
    },
 
-//===========以上为TV版，添加豆瓣，下面相同=====================
+//===========以上为TV版，未添加豆瓣，下面相同=====================
 
 	{
       "key": "酷看",
@@ -38,8 +32,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
+	
+		{
+      "key": "酷看影视", //星辰
+      "name": "🏅酷看┃请关注微信",
+     "jar": "https://6529.kstore.space/tvbox/0805.jar",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+  },
 
-{"key":"csp_Ikanbot","name": "🦋爱看┃影视","type": 3,"api": "csp_Ikanbot","searchable": 1,
+{"key":"csp_Ikanbot","name": "🦋爱看┃有广","type": 3,"api": "csp_Ikanbot","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
 
 {"key":"csp_Bdys","name":"🍓缘觉┃影视","type":3,"api":"csp_Bdys","searchable":1,
@@ -98,18 +102,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+ 
 	   {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "💮文采┃二维",  //fty二维码
 	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725092039061/fan.txt;md5;cdee73045927fcb02b709ae63292cfd7",
       "type": 3,
       "api": "csp_Jpys",
@@ -120,7 +116,7 @@
     },
     {
       "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "name": "🌈上头┃二维",//fty二维码
       "type": 3,
 	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725092039061/fan.txt;md5;cdee73045927fcb02b709ae63292cfd7",
       "api": "csp_Djtt",
@@ -130,7 +126,7 @@
     },
     {
       "key": "低端",
-      "name": "⏮️低端┃外剧",
+      "name": "⏮️低端┃二维",//fty二维码
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -138,19 +134,11 @@
       "quickSearch": 1,
       "changeable": 1
     },
-      {
-      "key": "达达龟",
-      "name": "🐢达龟┃肥猫",
-	   "jar": "http://js.xn--z7x900a.com/PandaQ240824.jar;md5;8ba127f0a52c1a7cfc2185cc4f1392ba",
-      "type": 3,
-      "api": "csp_Dadag",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ {"key":"低端影视","name":"💡低端┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+ "type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "热播",
-      "name": "📺热播┃多线",
+      "name": "📺热播┃二维",//fty二维码
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -160,9 +148,11 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
+	{"key":"热播影视","name":"💡热播┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+	"type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "Lib",
-      "name": "🌟立播┃不卡",
+      "name": "🌟立播┃二维",//fty二维码
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -215,8 +205,21 @@
       "quickSearch": 0,
       "changeable": 0
     },
-	
-	//===========开心============
+
+//===========欧歌============
+{"key":"大米星球","name":"💡大米┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},		
+{"key":"达达龟","name":"🐢达龟┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"疯狗影视","name":"💡疯狗┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
+//短剧
+{"key":"良品短剧","name":"🐞良品┃短剧","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},    
+{"key":"星芽短剧","name":"🐞星芽┃短剧","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+"type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+
+//===========开心============
 {"key":"农民影视","name":"🎦农民┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/nongmin.json"},
 {"key":"热播之家","name":"🎦热播┃开心","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/rebozj.json"},
 {"key":"csp_xBPQ_疯狗","name":"🎦疯狗┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/fgys.json"},
