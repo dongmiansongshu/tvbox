@@ -14,8 +14,8 @@
 //{"name":"🐉欧歌备份源","url":"https://gh.con.sh/https://raw.githubusercontent.com/andyszou/box/main/ouge/ouge.json"},
 {"name":"🐹多多新源备份","url":"https://gitee.com/andyszou/otherbox/raw/master/xduo/xduo.txt"},
 //{"name":"✨宝盒专享✨","url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"},
-{"name":"✨宝盒专享✨","url":"https://gh.bh666.filegear-sg.me/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"},
-{"name":"✨东辰线路✨","url":"https://gitee.com/dongchenys/liu/raw/master/hb.json"},
+{"name":"✨宝盒专享✨","url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"},
+//{"name":"✨东辰线路✨","url":"https://gitee.com/dongchenys/liu/raw/master/hb.json"},
  {
            "url": "https://毒盒.com/tv",
            "name": "毒盒"
@@ -115,14 +115,22 @@
 {"name":"🎭神仙影视原版源","url":"http://dp.sxtv.top:88/img"},
 {"name":"🎭神仙影视备份源","url":"https://gitee.com/andyszou/otherbox/raw/master/shenxian/img.json"},
 
-{"name":"🚀飞龙影视🌈","url": "https://gitee.com/tvkj/fl/raw/main/svip.json"},
-{"name":"🚀天微影视VIP线","url": "https://gitee.com/tvkj/tw/raw/main/svip.json"},
-
+         {
+      "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
+      "name": "🚀天微影视VIP线🚀"
+    },
+        {
+      "url": "https://gitee.com/tv888/fl/raw/master/svip.json",
+      "name": "🚀飞龙影视"
+    },
         {
       "url": "https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
       "name": "🚀七星精选"
     },
- 
+           {
+      "url": "https://qixing.myhkw.com/qxzj/七星智教",
+      "name": "🚀少儿频道"
+    },
     {
       "url": " https://gitee.com/okjack/okk/raw/master/op.txt",
       "name": " 💊OK💊"
