@@ -31,8 +31,32 @@
 {"name":"📚拾光T4","url":"https://gitlab.com/xmbjm/dc/-/raw/main/T4.json"},
 {"name":"🍚饭太硬①🌈","url":"http://饭太硬.com/tv"},
 {"name":"🍨饭太硬②","url":"http://饭.eu.org/tv"},
+{"name":"🐹肥猫🌈","url":"http://肥猫.com"},
+        {
+      "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
+      "name": "🚀天微影视VIP线🚀"
+    },
+        {
+      "url": "https://gitee.com/tv888/fl/raw/master/svip.json",
+      "name": "🚀飞龙影视"
+    },
+        {
+      "url": "https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
+      "name": "🚀七星精选"
+    },
+           {
+      "url": "https://qixing.myhkw.com/qxzj/七星智教",
+      "name": "🚀少儿频道"
+    },
 
-{"name":"短剧合集","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
+{"name":"OK猫影","url": "http://ok321.top/ok"},
+
+{"name":"📛公众号丨挺好分享","url":"http://ztha.top/TVBox/thdjk.json"},
+{"name":"🔰公众号丨挺好专享","url":"http://ztha.top/ys.json"},
+{"name":"🧶挺好丨挺好[JS]","url":"http://ztha.top/catjs/JS/js.json"},
+{"name":"🈵cally满①","url":"https://vip.123pan.cn/1823165373/cally/cally.json"},
+{"name":"🈵cally满FM","url":"https://vip.123pan.cn/1823165373/cally/callyFM.json"},
+{"name":"🎶讴歌在线","url":"http://o.nxog.top/m/111.php?ou=公众号欧歌"},
 
 { "name":"💊D佬💊凯速改","url": "https://6529.kstore.space/tvbox/nzk0722.json"},
 { "name":"💊三林💊","url": "https://4026.kstore.space/file.json"},
@@ -55,7 +79,6 @@
       "name": " 💊Luck💊"
     },
 
-{"name":"🐹肥猫🌈","url":"http://肥猫.com"},
 {"name":"🅱️荷城茶秀🌈","url":"http://rihou.cc:88/荷城茶秀"},
 {  "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
     //  "url": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
@@ -96,10 +119,6 @@
       "url": "http://我不是.摸鱼儿.top",
       "name": "🚀摸鱼线路"
     },
-{"name":"🈵cally满①","url":"https://vip.123pan.cn/1823165373/cally/cally.json"},
-{"name":"🈵cally满FM","url":"https://vip.123pan.cn/1823165373/cally/callyFM.json"},
-{"name":"🎶讴歌在线","url":"http://o.nxog.top/m/111.php?ou=公众号欧歌"},
-{"name":"🌺春盈天下点播线路","url":"http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css"},   
 
 
 {"name":"🐱夜猫子线路","url": "https://codeberg.org/Xym/ymz/raw/branch/main/ymz/ymz"},
@@ -117,29 +136,7 @@
 {"name":"🎭神仙影视原版源","url":"http://dp.sxtv.top:88/img"},
 {"name":"🎭神仙影视备份源","url":"https://gitee.com/andyszou/otherbox/raw/master/shenxian/img.json"},
 
-         {
-      "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
-      "name": "🚀天微影视VIP线🚀"
-    },
-        {
-      "url": "https://gitee.com/tv888/fl/raw/master/svip.json",
-      "name": "🚀飞龙影视"
-    },
-        {
-      "url": "https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
-      "name": "🚀七星精选"
-    },
-           {
-      "url": "https://qixing.myhkw.com/qxzj/七星智教",
-      "name": "🚀少儿频道"
-    },
-
-{"name":"OK猫影","url": "http://ok321.top/ok"},
-
-{"name":"📛公众号丨挺好分享","url":"http://ztha.top/TVBox/thdjk.json"},
-
-{"name":"📛挺好丨影视线路","url":"http://ztha.top/TVBox/thfsjk.json"},
-{"name":"🧶挺好丨挺好[JS]","url":"http://ztha.top/catjs/JS/js.json"},
+ 
 {"name":"🚀龙门影视","url": "http://api.lotics.com"},
 	 {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
