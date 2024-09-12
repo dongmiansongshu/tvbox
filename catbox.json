@@ -422,7 +422,7 @@
         "danmu": false
       }
     },
-    	{"key":"荐片","name":"💡荐片┃欧歌","type":3, //欧歌
+    	{"key":"荐片","name":"💡┃荐片┃欧歌","type":3, //欧歌
 	"jar":"https://6529.kstore.space/tvbox/ogjar.php",
 	"api":"csp_JianPian","playerType":1,"searchable":1,
 	"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
