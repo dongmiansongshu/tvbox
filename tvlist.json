@@ -208,7 +208,7 @@
 "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"  },
 
     {
-      "name": "tvlive",
+      "name": "tvlive", 
       "type": 0,
       "url": "https://gh.idayer.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 2
