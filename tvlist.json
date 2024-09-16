@@ -32,7 +32,10 @@
       "url": "http://117.72.68.25:9230/latest.txt"
     },
  
-
+      {
+      "name": "测试csitv",
+      "url": "http://andys3v.3vftp.cn/mitv/csitv.txt"
+    },
 //直播源6
     {
       "name": "Gnodgl M3u",
