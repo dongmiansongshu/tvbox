@@ -10,7 +10,7 @@
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
        {
-      "name": "综合直播源[3V-zh]",
+      "name": "综合直播源[3V-zh]备份",
       "type": 0,
       "url": "http://andysfly.3vcn.work/mitv/zh.json",
       "ua": "okhttp/3.15",
@@ -19,7 +19,7 @@
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
         {
-      "name": "直播源[手机内置]",
+      "name": "直播源[手机内置]凯速",
       "type": 0,
       "url": "https://6529.kstore.space/tvbox/sj-live.txt",
       "ua": "okhttp/3.15",
@@ -33,7 +33,7 @@
     },
  
       {
-      "name": "测试csitv",
+      "name": "测试csitv-3vftp",
       "url": "http://andys3v.3vftp.cn/mitv/csitv.txt"
     },
 //直播源6
