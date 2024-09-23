@@ -106,9 +106,9 @@
       "playerType": 1
     },
     {
-      "name": "范明明IPv6原版txt",
+      "name": "wwb521 原版m3u",
       "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://diyp1.112114.xyz/logo/{name}.png",
