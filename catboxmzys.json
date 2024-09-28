@@ -30,6 +30,7 @@
     {
       "key": "比特",
       "name": "🍄比特┃秒播",
+	  "jar": "http://ttkx.live:55/lib/ttkx.jar",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -458,4 +459,5 @@
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     }
   ]
-}
+} 
+ 
