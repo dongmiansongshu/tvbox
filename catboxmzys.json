@@ -304,7 +304,7 @@
 
 
 //===========欧歌============
-{"key":"大米星球","name":"💡大米┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
+//电影有黄 {"key":"大米星球","name":"💡大米┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
 "type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},		
 {"key":"达达龟","name":"🐢达龟┃欧歌","jar":"https://6529.kstore.space/tvbox/ogjar.php",
 "type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},		
