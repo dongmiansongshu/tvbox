@@ -374,7 +374,8 @@
             }
         },
 		
-{"key":"欢视","name":"💛欢视┃开心","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},		
+{"key":"欢视","name":"💛欢视┃开心","type":3,"api":"csp_AppTT","jar":"http://ttkx.live:55/lib/ttkx.jar"
+"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},		
 {"key": "畅梦","name": "💛畅梦┃开心","type": 3,"api": "http://ttkx.live:55/lib/drpy2.min.js","ext": "http://ttkx.live:55/lib/畅梦.js"},
 //{ "key": "大师兄",  "name": "💛师兄┃开心", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"⚠️+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"csp_星辰","name":"💛星辰┃开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/xcys.json"},  
